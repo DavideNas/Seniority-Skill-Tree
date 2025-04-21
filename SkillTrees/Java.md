@@ -106,8 +106,8 @@
 - **YouTube**
 
   - [Java Brains](https://www.youtube.com/@JavaBrainsChannel) – Spring e concetti core ▶️
-  - [Amigoscode](https://www.youtube.com/@amigoscode) – Spring Boot moderno▶️
-  - [JetBrains](https://www.youtube.com/@JetBrainsTV) – Tips e novità Java▶️
+  - [Amigoscode](https://www.youtube.com/@amigoscode) – Spring Boot moderno ▶️
+  - [JetBrains](https://www.youtube.com/@JetBrainsTV) – Tips e novità Java ▶️
 
 - **Libri**
   1. 📕 _Effective Java_ – Joshua Bloch

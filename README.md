@@ -14,7 +14,9 @@
 
 - [Angular](SkillTrees/Angular.md)
 - [React](SkillTrees/React.md)
-- [NextJS](SkillTrees/NextJS.md)
+- [Next](SkillTrees/NextJS.md)
+- [Vue](SkillTrees/VueJS.md)
+- [Nuxt](SkillTrees/NuxtJS.md)
 
 #### Back End Languages
 
