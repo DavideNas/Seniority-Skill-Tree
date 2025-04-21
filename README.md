@@ -2,55 +2,69 @@
 
 ### Skill list to master seniority in
 
+#### Classic Languages Programming
+
+- [C++](SkillTrees/CPP.md)
+- [C#](SkillTrees/CSharp.md)
+- [Java](SkillTrees/Java.md)
+- [PHP](SkillTrees/PHP.md)
+- [JavaScript](SkillTrees/Javascript.md)
+
 #### Front End Languages
 
-- [Angular](Angular.md)
-- [React](React.md)
-- [NextJS](NextJS.md)
+- [Angular](SkillTrees/Angular.md)
+- [React](SkillTrees/React.md)
+- [NextJS](SkillTrees/NextJS.md)
 
 #### Back End Languages
 
-- [NodeJS](NodeJS.md)
-- [Node Express](Express-NodeJS.md)
-- [NestJS](NestJS.md)
-- [Laravel](Laravel.md)
-- [.NET](DotNET.md)
-- [Java Spring](JavaSpring.md)
-- [Fiber-GO](Fiber-GO.md)
-- [Web Protocols](WebProtocols.md)
+- [NodeJS](SkillTrees/NodeJS.md)
+- [Node Express](SkillTrees/Express-NodeJS.md)
+- [NestJS](SkillTrees/NestJS.md)
+- [Laravel](SkillTrees/Laravel.md)
+- [.NET](SkillTrees/DotNET.md)
+- [Java Spring](SkillTrees/JavaSpring.md)
+- [Fiber-GO](SkillTrees/Fiber-GO.md)
+- [Web Protocols](SkillTrees/WebProtocols.md)
 
 #### Architecturals
 
-- [DevOps](DevOps.md)
-- [Microservices-Developer](Microservices-Dev.md)
-- [Design Patterns](DesignPatterns.md)
-- [Architectural Patterns](ArchitecturalPatterns.md)
+- [DevOps](SkillTrees/DevOps.md)
+- [Microservices-Developer](SkillTrees/Microservices-Dev.md)
+- [Design Patterns](SkillTrees/DesignPatterns.md)
+- [Architectural Patterns](SkillTrees/ArchitecturalPatterns.md)
 
 #### Clouds
 
-- [Cloud Engineer](<Cloud Engineer.md>)
-- [AWS](AWS.md)
-- [GCP](GCP.md)
-- [Azure](Azure.md)
+- [Cloud Engineer](<SkillTrees/Cloud Engineer.md>)
+- [AWS](SkillTrees/AWS.md)
+- [GCP](SkillTrees/GCP.md)
+- [Azure](SkillTrees/Azure.md)
 
 #### Lambda Oriented Languages
 
-- [Java Quarkus](JavaQuarkus.md)
-- [GO](GoLang.md)
-- [Python](Python.md)
-- [Rust](Rust.md)
-- [Deno](Deno.md)
-- [Elixir / Phoenix FW](Elixir.md)
+- [Java Quarkus](SkillTrees/JavaQuarkus.md)
+- [GO](SkillTrees/GoLang.md)
+- [Python](SkillTrees/Python.md)
+- [Rust](SkillTrees/Rust.md)
+- [Deno](SkillTrees/Deno.md)
+- [Elixir / Phoenix FW](SkillTrees/Elixir.md)
 
 #### Mobile Oriented
 
-- [Flutter](Flutter.md)
-- [React Native](ReactNative.md)
-- [Kotlin Android](KotlinAndroid.md)
+- [Flutter](SkillTrees/Flutter.md)
+- [React Native](SkillTrees/ReactNative.md)
+- [Kotlin Android](SkillTrees/KotlinAndroid.md)
 
 #### Gaming
 
-- [Game Designer](GameDesigner.md)
-- [Unity 3D](Unity3D.md)
-- [HLSL (Shader Developer)](ShaderHLSL.md)
-- [Unreal Engine](UnrealEngine.md)
+- [Unity 3D](SkillTrees/Unity3D.md)
+
+  - [HLSL (Shader Developer)](SkillTrees/ShaderHLSL.md)
+  - [Shader Graph](SkillTrees/UnityShaderGraph.md)
+  - [Post Processing Effects](SkillTrees/UnityPostProcessingEffects.md)
+  - [Unity Multiplayer](SkillTrees/UnityMultiplayer.md)
+
+- [Unreal Engine](SkillTrees/UnrealEngine.md)
+- [Blender3D](SkillTrees/Blender3D.md)
+- [Game Designer](SkillTrees/GameDesigner.md)
