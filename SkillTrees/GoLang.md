@@ -147,9 +147,68 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Go Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=YS4e4q9oBaU) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Go Programming Language Full Course – freeCodeCamp](https://www.youtube.com/watch?v=YgU6X5t-y00) ▶️  
+     Un corso completo su Go che copre la sintassi, le strutture dati, la concorrenza e altro ancora.
+
+  2. [Go Programming – Traversy Media](https://www.youtube.com/watch?v=EmGVtrXMIo0) ▶️  
+     Un'introduzione dettagliata alla programmazione con Go, spiegando le basi e come costruire applicazioni.
+
+- **YouTube Channels**:
+
+  1. [Tech With Tim](https://www.youtube.com/c/TechWithTim) 📺  
+     Canale che offre una serie di tutorial sulla programmazione in Go, tra cui la creazione di API e altre applicazioni pratiche.
+
+  2. [LearnCode.academy](https://www.youtube.com/c/LearnCodeacademy) 📺  
+     Canale che offre video formativi su diversi linguaggi, incluso Go, con esercizi pratici e progetti.
+
+- **Articoli**:
+
+  1. [Go by Example](https://gobyexample.com/) ✍️  
+     Un sito che offre esempi pratici per apprendere Go, coprendo tutto, dalla sintassi di base alla concorrenza.
+
+  2. [Go Programming Language: A Guide for Beginners](https://realpython.com/tutorials/go/) ✍️  
+     Una guida introduttiva su Go, con esempi di codice per aiutarti a capire le basi del linguaggio.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Go Documentation](https://golang.org/doc/) 📘  
+    La documentazione ufficiale di Go, che copre tutte le funzionalità del linguaggio, inclusi pacchetti standard, concorrenza e altro.
+
+  - [Go Wiki – Go Project](https://github.com/golang/go/wiki) 📘  
+    Un insieme di risorse, articoli e best practices per sviluppatori Go, creato dalla comunità ufficiale di Go.
+
+- **Best Course**:  
+  [Learn Go Programming – FreeCodeCamp](https://www.freecodecamp.org/news/learn-go-with-examples/) 🎥  
+  Una guida completa per principianti che desiderano imparare Go, con esercizi pratici e esempi concreti. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"The Go Programming Language"_ di Brian W. Kernighan 📚
-  2. _"Go in Action"_ di William Kennedy 📚
+
+  - 📘 _The Go Programming Language_ – Alan A. A. Donovan, Brian W. Kernighan  
+    Un libro fondamentale per imparare Go, scritto da esperti nel campo, che copre ogni aspetto del linguaggio.
+
+  - 📙 _Go in Action_ – William Kennedy  
+    Una guida pratica che esplora la programmazione in Go, includendo casi d'uso reali e best practices.
+
+  - 📕 _Go Programming Blueprints_ – Mat Ryer  
+    Un libro che esplora progetti pratici con Go, inclusi applicazioni web e microservizi, per sviluppatori intermedi.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Go: The Complete Developer’s Guide – Udemy](https://www.udemy.com/course/go-the-complete-developers-guide/)**  
+     Un corso altamente consigliato per chi desidera imparare Go, coprendo concetti avanzati come la concorrenza e la creazione di web API. 🌐
+
+  2. **[Go Programming Language: From Beginner to Pro – Coursera](https://www.coursera.org/learn/go-programming-language)**  
+     Un corso completo che esplora il linguaggio Go, dalla sintassi di base alla creazione di sistemi complessi. 🌐
+
+  3. **[Master Go (Golang) Programming – A Complete Guide – Udemy](https://www.udemy.com/course/master-go-golang-programming-complete-guide/)**  
+     Un corso che copre tutto su Go, da come installarlo a come utilizzarlo per creare software complessi. 🌐

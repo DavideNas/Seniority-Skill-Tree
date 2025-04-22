@@ -137,7 +137,7 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
 - **YouTube**: [COMPLETE Unity Multiplayer Tutorial](https://www.youtube.com/watch?v=3yuBOB3VrCk&ab_channel=CodeMonkey)▶️
 - **Libri**:

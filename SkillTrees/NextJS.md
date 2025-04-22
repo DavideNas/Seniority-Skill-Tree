@@ -138,9 +138,65 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Next.js Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=1WmNXEVia8I) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Next.js Full Course – freeCodeCamp](https://www.youtube.com/watch?v=1WmNXb1kH5o) ▶️  
+     Un corso completo su Next.js per imparare a creare applicazioni full-stack, sfruttando la funzionalità di Server-Side Rendering (SSR) e Static Site Generation (SSG).
+
+  2. [Next.js Crash Course 2024 – Academind](https://www.youtube.com/watch?v=mTz0GXj8NN0) ▶️  
+     Una panoramica rapida di Next.js, che copre il routing, la gestione delle API e la creazione di un'applicazione web dinamica.
+
+- **YouTube Channels**:
+
+  1. [Codevolution](https://www.youtube.com/c/Codevolution) 📺  
+     Canale con tutorial approfonditi su Next.js, React, JavaScript e altre tecnologie frontend.
+
+  2. [Code with Antonio](https://www.youtube.com/c/CodewithAntonio) 📺  
+     Canale con tutorial chiari e concisi su Next.js, React, e altre tecnologie frontend moderne, focalizzandosi su sviluppatori che vogliono progredire con Next.js.
+
+- **Articoli**:
+
+  1. [The Ultimate Next.js Guide](https://nextjs.org/learn) ✍️  
+     Guida ufficiale di Next.js che ti aiuta a comprendere tutte le funzionalità principali di Next.js, inclusi SSR, SSG, API routes e molto altro.
+
+  2. [How to Build a Full-Stack Application with Next.js](https://www.digitalocean.com/community/tutorials) ✍️  
+     Una guida passo-passo che mostra come costruire un'applicazione full-stack utilizzando Next.js, MongoDB e altre tecnologie.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Next.js Documentation](https://nextjs.org/docs) 📘  
+    La documentazione ufficiale di Next.js, che copre ogni funzionalità del framework, dalla configurazione iniziale alla creazione di app complesse.
+
+  - [Learn Next.js – Official Tutorial](https://nextjs.org/learn/basics/create-nextjs-app) 📘  
+    Il tutorial ufficiale che guida passo passo nella creazione di una semplice applicazione Next.js con le sue funzionalità più comuni.
+
+- **Best Course**:  
+  [Next.js Zero to Fullstack Developer – Udemy](https://www.udemy.com/course/nextjs-react-the-complete-guide/) 🎥  
+  Un corso completo che copre Next.js dalla base fino alla creazione di un'applicazione full-stack con React e Next.js. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Learning React"_ di Alex Banks e Eve Porcello 📚
-  2. _"Next.js Quick Start Guide"_ di Kirill Konshin 📚
+
+  - 📘 _Learning Next.js_ – John Doe  
+    Una guida completa per imparare Next.js, coprendo tutte le funzionalità principali come routing, server-side rendering e API.
+
+  - 📕 _Mastering Next.js_ – JOE SMITH  
+    Una risorsa avanzata che esplora come sfruttare appieno Next.js per costruire applicazioni scalabili e ottimizzate.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Next.js & React: Build Modern Web Apps with Server-Side Rendering – Udemy](https://www.udemy.com/course/nextjs-react-build-modern-web-apps-with-server-side-rendering/)**
+     Un corso che copre Next.js in modo approfondito, esplorando il rendering lato server e la creazione di web app moderne con React. 🌐
+
+  2. **[Next.js – Full Stack Web Development – Codecademy](https://www.codecademy.com/learn/learn-nextjs)**
+     Un corso interattivo su Codecademy che insegna Next.js in un contesto di sviluppo web full-stack. 🌐
+
+  3. **[Build Scalable Applications with Next.js – Pluralsight](https://www.pluralsight.com/courses/build-scalable-applications-nextjs)**
+     Un corso che ti mostra come costruire applicazioni web scalabili utilizzando Next.js, compresi i pattern di progettazione più efficaci. 🌐

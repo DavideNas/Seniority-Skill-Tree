@@ -105,14 +105,68 @@
 
 ---
 
-### 📘 Risorse Consigliate
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**
+### _Gratis_
 
-  - [FreeCodeCamp – Corso completo ASP.NET Core](https://www.youtube.com/watch?v=fmvcAzHpsk8) ▶️
-  - [Nick Chapsas (YouTube)](https://www.youtube.com/@nickchapsas) – aggiornamenti moderni e best practices ▶️
+- **YouTube Videos**:
 
-- **Libri**
-  1. _C# 12 in a Nutshell_ – Albahari (aggiornato al 2024-25) 📚
-  2. _Pro ASP.NET Core 7_ – Adam Freeman 📚
-  3. _The Art of Unit Testing (C#)_ – Roy Osherove 📚
+  1. [C# Full Course for Beginners – freeCodeCamp](https://www.youtube.com/watch?v=GhQdlIFylQ8) ▶️  
+     Introduzione chiara e completa a C# e .NET, più di 4 ore di contenuti.
+
+  2. [C# Tutorial for Beginners – Programming with Mosh](https://www.youtube.com/watch?v=gfkTfcpWqAY) ▶️  
+     Corso super popolare consigliato ovunque per chi parte da zero.
+
+- **YouTube Channels**:
+
+  1. [Nick Chapsas](https://www.youtube.com/@nickchapsas) 📺  
+     Uno dei canali più consigliati per approfondimenti su .NET e C# moderno.
+
+  2. [IAmTimCorey](https://www.youtube.com/@IAmTimCorey) 📺  
+     Tutorial professionali e ben strutturati per sviluppo C# reale.
+
+- **Articoli**:
+
+  1. [C# Guide – Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/) ✍️  
+     La guida ufficiale di Microsoft per imparare tutto su C#.
+
+  2. [C# Programming – GeeksForGeeks](https://www.geeksforgeeks.org/csharp-programming-language/) ✍️  
+     Articoli tecnici, esempi e quiz.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Microsoft Learn – .NET & C#](https://learn.microsoft.com/en-us/dotnet/) 📘  
+    Ideale per imparare sia C# che tutto l’ecosistema .NET.
+
+  - [DotNET Perls](https://www.dotnetperls.com/) 📘  
+    Esempi pratici e veloci per concetti base e avanzati di C#.
+
+- **Best Course**:  
+  [Build a Web App with ASP.NET Core and C# (freeCodeCamp)](https://www.youtube.com/watch?v=FbfZr3zLomY) 🎥  
+  Corso pratico per creare una web app completa, consigliato anche su Reddit.
+
+---
+
+### _A Pagamento_
+
+- **Libri**:
+
+  - 📕 _C# 12 and .NET 8 – Modern Cross-Platform Development_ – Mark J. Price  
+    Bestseller aggiornato alla versione più recente del linguaggio.
+
+  - 📘 _Pro C# 10 with .NET 6_ – Andrew Troelsen  
+    Testo approfondito usato anche in corsi universitari.
+
+  - 📙 _CLR via C#_ – Jeffrey Richter  
+    Libro avanzato per comprendere l’infrastruttura .NET dietro le quinte.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[C# Basics for Beginners: Learn C# Fundamentals – Udemy](https://www.udemy.com/course/csharp-tutorial-for-beginners/)**  
+     Corso consigliatissimo da Reddit, YouTube e StackOverflow per chi parte da 0. 🌐
+
+  2. **[C# Programming for Unity Game Development – Coursera](https://www.coursera.org/specializations/programming-unity-game-development)**  
+     Ottimo per chi vuole imparare C# in ambito game dev con Unity. 🌐
+
+  3. **[C# Advanced Topics – Udemy (Mosh Hamedani)](https://www.udemy.com/course/csharp-advanced/)**  
+     Continuazione ideale per chi ha già le basi: LINQ, delegati, eventi e async/await. 🌐

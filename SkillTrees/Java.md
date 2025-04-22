@@ -101,16 +101,68 @@
 
 ---
 
-### 📘 Risorse Consigliate
+### 🎓 Risorse Consigliate
 
-- **YouTube**
+### _Gratuite_
 
-  - [Java Brains](https://www.youtube.com/@JavaBrainsChannel) – Spring e concetti core ▶️
-  - [Amigoscode](https://www.youtube.com/@amigoscode) – Spring Boot moderno ▶️
-  - [JetBrains](https://www.youtube.com/@JetBrainsTV) – Tips e novità Java ▶️
+- **YouTube Videos**:
 
-- **Libri**
-  1. 📕 _Effective Java_ – Joshua Bloch
-  2. 📘 _Java Concurrency in Practice_ – Brian Goetz
-  3. 📘 _Spring in Action (6th ed)_ – Craig Walls
-  4. 📗 _Modern Java in Action_ – Raoul-Gabriel Urma
+  1. [Java Full Course for Beginners – freeCodeCamp](https://www.youtube.com/watch?v=GoXwIVyNvX0) ▶️  
+     Un corso completo che copre tutto, dalla sintassi di base ai concetti avanzati come la programmazione orientata agli oggetti.
+
+  2. [Java Programming – Traversy Media](https://www.youtube.com/watch?v=8cm1x4bC610) ▶️  
+     Una panoramica di Java, comprese le basi del linguaggio e la creazione di un'applicazione con Java.
+
+- **YouTube Channels**:
+
+  1. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh) 📺  
+     Canale che offre tutorial su Java, coprendo vari concetti, da quelli base a quelli avanzati, e costruendo applicazioni.
+
+  2. [Telusko](https://www.youtube.com/c/Telusko) 📺  
+     Canale con tutorial chiari su Java, inclusi argomenti come il multithreading e l'uso delle librerie di Java.
+
+- **Articoli**:
+
+  1. [Java Programming Language Tutorial](https://www.geeksforgeeks.org/java/) ✍️  
+     Una guida completa per principianti che copre tutti i concetti fondamentali di Java, da variabili e cicli a concetti avanzati come la gestione delle eccezioni.
+
+  2. [Java Guide – The Ultimate Guide for Java Programming](https://www.javaguides.net/) ✍️  
+     Una risorsa ben organizzata con tutorial passo-passo su Java, che copre argomenti dal base fino ad argomenti avanzati.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Java Official Documentation](https://docs.oracle.com/en/java/) 📘  
+    La documentazione ufficiale di Oracle, dove puoi trovare informazioni dettagliate sul linguaggio, la JVM e le librerie standard di Java.
+
+  - [Java Tutorials – Oracle](https://docs.oracle.com/javase/tutorial/) 📘  
+    Tutorial interattivi e guide che ti aiuteranno a imparare Java a partire dai concetti base.
+
+- **Best Course**:  
+  [Java Programming for Beginners – FreeCodeCamp](https://www.freecodecamp.org/news/java-programming-course/) 🎥  
+  Un corso completo che copre Java, dal livello principiante all'intermedio, con esempi pratici e esercizi. 🌐
+
+---
+
+### _A Pagamento_
+
+- **Libri**:
+
+  - 📘 _Effective Java_ – Joshua Bloch  
+    Un libro fondamentale che esplora le best practices per la programmazione Java, consigliato per sviluppatori che desiderano migliorare il loro codice.
+
+  - 📙 _Java: The Complete Reference_ – Herbert Schildt  
+    Un riferimento completo per il linguaggio Java, che copre la sintassi, le API e le librerie più utilizzate.
+
+  - 📕 _Head First Java_ – Kathy Sierra, Bert Bates  
+    Un libro di introduzione molto popolare che rende l'apprendimento di Java accessibile e divertente, attraverso esempi visivi e interattivi.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Java Programming and Software Engineering Fundamentals – Coursera](https://www.coursera.org/specializations/java-programming)**  
+     Una serie di corsi consigliata dalla community che offre un'introduzione completa alla programmazione Java e alla progettazione di software. 🌐
+
+  2. **[The Complete Java MasterClass – Udemy](https://www.udemy.com/course/java-the-complete-java-developer-course/)**  
+     Un corso completo su Java che copre la programmazione da base a avanzata, tra cui strutture dati, algoritmi e gestione delle eccezioni. 🌐
+
+  3. **[Java Programming: Solving Problems with Software – Coursera](https://www.coursera.org/learn/java-programming)**  
+     Corso che approfondisce l'uso di Java per risolvere problemi reali attraverso il software, altamente raccomandato dalla comunità per sviluppatori che desiderano mettere in pratica le proprie competenze. 🌐

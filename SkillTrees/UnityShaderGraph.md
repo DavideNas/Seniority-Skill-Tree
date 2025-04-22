@@ -107,9 +107,70 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Unity Shader Graph Basics](https://www.youtube.com/watch?v=TbZYoSu1w8Y&ab_channel=DanielIlett)▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. **[Introduzione a Shader Graph – Unity Learn](https://learn.unity.com/tutorial/introduction-to-shader-graph)**  
+     Guida ufficiale di Unity per iniziare con Shader Graph, creando un semplice shader basato su nodi nel Lightweight Render Pipeline.
+
+  2. **[Get STARTED With Shadergraph in Unity – YouTube](https://www.youtube.com/watch?v=3nyi2pv18fQ)**  
+     Tutorial che mostra come utilizzare Shader Graph in Unity, ideale per principianti.
+
+  3. **[10 Shaders in 10 Minutes – Unity Shader Graph – YouTube](https://www.youtube.com/watch?v=vje0x1BNpp8)**  
+     In questo video, imparerai 10 diversi effetti shader, cosa sono utili e come implementarli in Unity Shader Graph.
+
+  4. **[How To Use All 200+ Nodes in Unity Shader Graph – YouTube](https://www.youtube.com/watch?v=84A1FcQt9v4)**  
+     Una panoramica su oltre 200 nodi disponibili in Shader Graph, utile per comprendere le potenzialità dello strumento.
+
+  5. **[URP Shader Graph Basics – Scrolling UV | Unity Tutorial – YouTube](https://www.youtube.com/live/VxEN9djWGRQ)**  
+     Tutorial su come utilizzare Shader Graph per creare uno shader di scorrimento UV in URP, concetto utile per effetti come acqua o cielo in movimento.
+
+- **YouTube Channels**:
+
+  1. [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity) 📺  
+     Canale che offre tutorial dettagliati su Unity, inclusi numerosi video sulla creazione di shader con Shader Graph.
+
+  2. [Unity](https://www.youtube.com/c/Unity) 📺  
+     Canale ufficiale di Unity che contiene tutorial su Shader Graph, come utilizzarlo e sfruttare al meglio le sue potenzialità.
+
+- **Articoli**:
+
+  - **[Unity Shader Graph Basics (Part 1) – Your First Graph – Daniel Ilett](https://danielilett.com/2023-09-26-tut7-3-intro-to-shader-graph/)**  
+    Guida dettagliata che copre le basi di Shader Graph, dalla configurazione all'interfaccia, fino alla creazione del tuo primo shader. Utilizza Unity 2022.3 LTS e si concentra su URP.
+
+  - **[Shader Graph Tutorial for Unity HDRP & URP | 2022 LTS – Unity Blog](https://unity.com/blog/engine-platform/new-shader-graph-production-ready-shaders-in-unity-6)**  
+    Tutorial ufficiale di Unity per creare ambienti realistici con Shader Graph in HDRP e URP, con oltre 25 asset e tutorial pronti all'uso.
+
+- **Best Course**:
+
+  - **[Unity Shader Graph Tutorials – YouTube](https://www.youtube.com/playlist?list=PLzDRvYVwl53tpvp6CP6e-Mrl6dmxs9uhx)**  
+    Playlist che copre vari effetti interessanti creati con Shader Graph in Unity.
+
+  - **[Unity Shadergraph Tutorials – YouTube](https://www.youtube.com/playlist?list=PLfmYNuLHEy-Mj5tY2C3PAo3nJx2U19FKb)**  
+    Tutorial su effetti shader utili per sviluppatori 2D, inclusi shader combinati in un unico master shader.
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Beginner's Guide to Unity Shader Graph"_ di Álvaro Alda📚
-  2. _"Unity 2021 Shaders and Effects Cookbook"_ di Kenneth Lammers📚
+
+  - 📘 _Unity 2021 Shaders and Effects Cookbook_ – Kenneth Lammers  
+    Un libro che esplora la creazione di shader e effetti in Unity, incluso l'uso di Shader Graph.
+
+  - 📕 _Shader Development from Scratch for Unity with Shader Graph_ – Jesse Freeman  
+    Guida per imparare a sviluppare shader da zero utilizzando Shader Graph in Unity, con esercizi pratici.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Mastering Shader Graph in Unity – Udemy](https://www.udemy.com/course/mastering-shader-graph-in-unity/)**  
+     Corso consigliato dalla community che copre tutti gli aspetti di Shader Graph, dalle basi alla creazione di shader complessi. 🌐
+
+  2. **[Unity Shader Graph for Beginners – Skillshare](https://www.skillshare.com/classes/Unity-Shader-Graph-for-Beginners/1408439079)**  
+     Corso su Skillshare che ti insegna come creare shader avanzati utilizzando Shader Graph in Unity. 🌐
+
+  3. **[Creating Stunning Visual Effects with Shader Graph – Coursera](https://www.coursera.org/learn/creating-visual-effects-shader-graph-unity)**  
+     Un corso che ti guida nella creazione di effetti visivi avanzati tramite Shader Graph, utile per giochi e simulazioni visive. 🌐

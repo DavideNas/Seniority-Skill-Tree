@@ -131,14 +131,65 @@
 
 ---
 
-### 📚 Risorse Consigliate
+### 🎓 Risorse & Libri x studiare:
 
-- **YouTube**
+### _Gratuite_
 
-  - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) – JavaScript, Node, React, Vue ▶️
-  - [Fireship](https://www.youtube.com/c/Fireship) – tutto lo stack JS in 100 secondi ▶️
+- **YouTube Videos**:
 
-- **Libri**
-  1. 📘 _You Don’t Know JS (Yet)_ – Kyle Simpson
-  2. 📗 _Eloquent JavaScript_ – Marijn Haverbeke
-  3. 📙 _The Road to React_ – Robin Wieruch
+  1. [JavaScript Full Course for Beginners – freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg) ▶️  
+     Un corso completo su JavaScript, coprendo tutto, dalla sintassi di base a concetti avanzati come la manipolazione del DOM e la gestione degli eventi.
+
+  2. [JavaScript Crash Course – Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c) ▶️  
+     Un corso di introduzione a JavaScript che ti guida attraverso le basi del linguaggio, con esempi pratici e suggerimenti per scrivere codice pulito ed efficiente.
+
+- **YouTube Channels**:
+
+  1. [Academind](https://www.youtube.com/c/Academind) 📺  
+     Un canale che offre tutorial completi su JavaScript e altre tecnologie web moderne, come React, Node.js e Vue.js.
+
+  2. [The Net Ninja](https://www.youtube.com/c/TheNetNinja) 📺  
+     Un canale con eccellenti tutorial su JavaScript, che copre i concetti fondamentali e li applica a progetti pratici.
+
+- **Articoli**:
+
+  1. [JavaScript.info](https://javascript.info/) ✍️  
+     Una risorsa completa per imparare JavaScript, con articoli e spiegazioni dettagliate sui concetti fondamentali del linguaggio.
+
+  2. [Modern JavaScript Tutorial – Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) ✍️  
+     Guida completa su JavaScript, con esempi pratici e spiegazioni approfondite sulle funzionalità avanzate del linguaggio.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [JavaScript MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 📘  
+    La documentazione ufficiale di Mozilla, la risorsa più completa e aggiornata per imparare JavaScript e tutte le sue API.
+
+  - [JavaScript Standard Library – Node.js](https://nodejs.org/dist/latest-v16.x/docs/api/) 📘  
+    Una guida alla libreria standard di JavaScript per Node.js, con esempi su come utilizzare le funzioni base e avanzate del framework.
+
+- **Best Course**:  
+  [JavaScript – The Complete Guide 2023 (Beginner + Advanced) – Udemy](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) 🎥  
+  Un corso completo che copre sia i concetti base che quelli avanzati di JavaScript. 🌐
+
+---
+
+### _A Pagamento_
+
+- **Libri**:
+
+  - 📕 _Eloquent JavaScript_ – Marijn Haverbeke  
+    Un libro che esplora JavaScript in profondità, adatto a chi vuole imparare non solo la sintassi ma anche le migliori pratiche.
+
+  - 📘 _You Don’t Know JS (Book Series)_ – Kyle Simpson  
+    Una serie di libri che coprono i dettagli più avanzati di JavaScript, con una comprensione profonda di come funziona il linguaggio.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[JavaScript: Understanding the Weird Parts – Udemy](https://www.udemy.com/course/understand-javascript/)**
+     Un corso altamente raccomandato dalla community che approfondisce gli aspetti più strani di JavaScript, per capire come funziona il linguaggio. 🌐
+
+  2. **[JavaScript Algorithms and Data Structures – freeCodeCamp](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms-and-data-structures/)**
+     Questo corso gratuito di freeCodeCamp è perfetto per sviluppatori che vogliono imparare JavaScript concentrandosi su algoritmi e strutture dati. 🌐
+
+  3. **[Modern JavaScript From The Beginning – Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)**
+     Un corso raccomandato per imparare JavaScript partendo dalle basi e coprendo anche concetti più avanzati. 🌐

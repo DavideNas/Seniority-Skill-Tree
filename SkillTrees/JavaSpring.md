@@ -131,9 +131,65 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Spring Boot Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=vtPkZShrvXQ) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Spring Framework Full Course – freeCodeCamp](https://www.youtube.com/watch?v=vtPkZShrvXQ) ▶️  
+     Corso completo su Spring Framework, ideale per chi vuole imparare come creare applicazioni robuste con Java e Spring Boot.
+
+  2. [Spring Boot Crash Course – Traversy Media](https://www.youtube.com/watch?v=vtPkZShrvXQ) ▶️  
+     Un corso introduttivo su Spring Boot che esplora come creare applicazioni backend in modo semplice ed efficiente.
+
+- **YouTube Channels**:
+
+  1. [Java Brains](https://www.youtube.com/c/JavaBrains) 📺  
+     Un canale che offre tutorial completi su Spring, Java e altre tecnologie backend, con un focus sulla creazione di applicazioni scalabili.
+
+  2. [Spring Framework Tutorials](https://www.youtube.com/c/SpringFrameworkTutorials) 📺  
+     Un canale dedicato a tutorial su Spring Framework, coprendo argomenti avanzati come Spring Boot, Spring Security e Spring Cloud.
+
+- **Articoli**:
+
+  1. [Spring Framework Documentation](https://spring.io/projects/spring-framework) ✍️  
+     La documentazione ufficiale di Spring, una risorsa essenziale per imparare a utilizzare il framework e le sue varie funzionalità.
+
+  2. [Baeldung – Spring Tutorials](https://www.baeldung.com/) ✍️  
+     Baeldung offre una vasta gamma di articoli su Spring Framework, Spring Boot e Spring Security, con esempi pratici.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Spring Boot – Official Documentation](https://spring.io/projects/spring-boot) 📘  
+    La documentazione ufficiale di Spring Boot, che ti guida attraverso l'installazione e l'uso di Spring Boot per costruire applicazioni scalabili e robuste.
+
+  - [Spring Security – Official Documentation](https://spring.io/projects/spring-security) 📘  
+    Una risorsa ufficiale che ti aiuta a comprendere e implementare la sicurezza nelle tue applicazioni Spring.
+
+- **Best Course**:  
+  [Spring Framework for Beginners – Java Brains (YouTube)](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTUGAPmLgQExdCKV1mr3pnaD) 🎥  
+  Una serie di video tutorial per principianti che coprono i concetti base e avanzati di Spring. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Spring in Action"_ di Craig Walls 📚
-  2. _"Spring Boot in Action"_ di Craig Walls 📚
+
+  - 📘 _Spring in Action_ – Craig Walls  
+    Un libro completo che esplora Spring Framework, ideale per sviluppatori che vogliono approfondire le capacità del framework.
+
+  - 📕 _Spring Boot in Action_ – Craig Walls  
+    Questo libro si concentra sull'uso di Spring Boot per costruire applicazioni moderne e scalabili.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Spring Framework: Beginner to Guru – Udemy](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)**
+     Un corso altamente raccomandato per chi vuole imparare Spring Framework, coprendo dal livello base a quello avanzato. 🌐
+
+  2. **[Spring Framework 5: Building Web Applications – Udemy](https://www.udemy.com/course/spring-framework-5-building-web-applications/)**
+     Corso completo che ti guida nella costruzione di applicazioni web moderne utilizzando Spring Framework. 🌐
+
+  3. **[Spring Framework Essentials – Pluralsight](https://www.pluralsight.com/courses/spring-framework-essentials)**
+     Questo corso ti introduce alle basi del Spring Framework, fornendo le fondamenta per lo sviluppo di applicazioni Java scalabili. 🌐

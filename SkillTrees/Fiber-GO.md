@@ -149,9 +149,65 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Fiber Go Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=TWsuRjf7CBs) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Go Fiber Crash Course (TechWorld with Nana)](https://www.youtube.com/watch?v=Xr3qABoZJ0M) ▶️  
+     Introduzione a Go Fiber, utile per i principianti che vogliono imparare a costruire applicazioni web.
+
+  2. [Building APIs with Go Fiber](https://www.youtube.com/watch?v=5nHeXXJ75d8) ▶️  
+     Video che spiega come costruire un'API RESTful con Go Fiber.
+
+- **YouTube Channels**:
+
+  1. [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) 📺  
+     Canale che offre tutorial su vari framework, incluso Go Fiber.
+
+  2. [The Net Ninja](https://www.youtube.com/c/TheNetNinja) 📺  
+     Canale che offre corsi completi e facili da seguire, inclusi i tutorial su Go Fiber.
+
+- **Articoli**:
+
+  1. [Getting Started with Go Fiber](https://dev.to/sandrinodimattia/getting-started-with-go-fiber-24l7) ✍️  
+     Una guida introduttiva su come iniziare con Go Fiber per sviluppare API e applicazioni web.
+
+  2. [Go Fiber Documentation](https://docs.gofiber.io/) ✍️  
+     La documentazione ufficiale di Go Fiber, fondamentale per apprendere tutte le funzionalità del framework.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Go Fiber Official Documentation](https://docs.gofiber.io/) 📘  
+    La risorsa principale per imparare e approfondire le funzionalità di Go Fiber.
+
+  - [Building REST APIs with Go Fiber](https://gofiber.io/docs) 📘  
+    Una guida completa per imparare a costruire API RESTful con Go Fiber.
+
+- **Best Course**:  
+  [Go Fiber Crash Course](https://www.udemy.com/course/go-fiber-crash-course/) 🎥  
+  Corso completo che ti guiderà nella creazione di applicazioni web con Go Fiber. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Go Web Programming"_ di Sau Sheong Chang 📚
-  2. _"Mastering Go"_ di Mihalis Tsoukalos 📚
+
+  - 📘 _Go Web Programming_ – Sau Sheong Chang  
+    Un libro che esplora la costruzione di applicazioni web con Go, includendo l'uso di Fiber.
+
+  - 📙 _Learn Go with Fiber_ – Todd McLeod  
+    Una guida pratica per imparare a usare Go Fiber nella costruzione di API e applicazioni scalabili.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Building Web Apps with Go & Fiber](https://www.udemy.com/course/building-web-apps-with-go-fiber/)**  
+     Corso consigliato dalla community per imparare a costruire applicazioni web moderne con Go Fiber. 🌐
+
+  2. **[Go Fiber & Microservices](https://www.udemy.com/course/go-fiber-microservices/)**  
+     Corso che insegna come costruire applicazioni basate su microservizi con Go Fiber. 🌐
+
+  3. **[Master Go and Go Fiber Framework](https://www.udemy.com/course/master-go-and-go-fiber-framework/)**  
+     Un corso completo che ti guiderà attraverso l'apprendimento di Go e Go Fiber per creare applicazioni web moderne. 🌐

@@ -141,9 +141,60 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Python Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Python for Beginners – freeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw) ▶️  
+     Corso completo di Python per principianti che copre le basi del linguaggio, le funzioni e la creazione di progetti.
+
+  2. [Python Crash Course – Traversy Media](https://www.youtube.com/watch?v=JJmcL1N2KQ8) ▶️  
+     Corso che esplora Python per chi è nuovo al linguaggio, includendo esempi di codice e applicazioni pratiche.
+
+- **YouTube Channels**:
+
+  1. [Tech With Tim](https://www.youtube.com/c/TechWithTim) 📺  
+     Canale dedicato a Python, che copre concetti base e avanzati, con tutorial pratici su vari progetti.
+
+  2. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh) 📺  
+     Canale che offre corsi pratici su Python e altri linguaggi di programmazione, molto utile per sviluppatori Python.
+
+- **Articoli**:
+
+  1. [Python Official Documentation](https://docs.python.org/3/) ✍️  
+     La documentazione ufficiale di Python, che è la fonte principale per ogni sviluppo in Python.
+
+  2. [Python for Beginners: A Step-by-Step Guide](https://www.tutorialspoint.com/python/index.htm) ✍️  
+     Guida completa per principianti su Python, che copre dalla sintassi di base alle applicazioni più complesse.
+
+- **Best Course**:  
+  [Python for Data Science and Machine Learning Bootcamp – Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) 🎥  
+  Corso molto consigliato per gli sviluppatori che desiderano utilizzare Python per la scienza dei dati e il machine learning. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Fluent Python"_ di Luciano Ramalho 📚
-  2. _"Learning Python"_ di Mark Lutz 📚
+
+  - 📘 _Automate the Boring Stuff with Python_ – Al Sweigart  
+    Un libro molto popolare per imparare Python, con focus su automazione di task noiosi tramite codice Python.
+
+  - 📕 _Python Crash Course_ – Eric Matthes  
+    Un libro per principianti che copre tutti gli aspetti di Python, dai concetti di base alla creazione di progetti reali.
+
+  - 📙 _Fluent Python_ – Luciano Ramalho  
+    Un libro avanzato che esplora le caratteristiche più sofisticate del linguaggio Python, come i decoratori, i generatori e i pattern di progettazione.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Complete Python Developer in 2024 – Udemy](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)**
+     Un corso completo che copre Python a fondo, incluse tecniche moderne di sviluppo web e machine learning. 🌐
+
+  2. **[Python Data Science Handbook – Jake VanderPlas](https://www.oreilly.com/library/view/python-data-science/9781491912126/)**
+     Libro molto consigliato per chi desidera lavorare con Python nel campo della scienza dei dati.
+
+  3. **[Real Python](https://realpython.com/)**
+     Piattaforma che offre tutorial avanzati, esercizi, e progetti pratici per sviluppatori Python di tutti i livelli.

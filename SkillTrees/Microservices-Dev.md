@@ -130,9 +130,65 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Microservices Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=w4DPR_hzK9w) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Microservices Architecture in 10 Minutes – TechWorld with Nana](https://www.youtube.com/watch?v=Hhzc3T1M2F4) ▶️  
+     Un'introduzione rapida e chiara alla microservizi architettura, che esplora come costruire un'applicazione distribuita e scalabile.
+
+  2. [Microservices Architecture: What You Need to Know – freeCodeCamp](https://www.youtube.com/watch?v=wxe55soYfX4) ▶️  
+     Un video che spiega i concetti fondamentali della microarchitettura dei servizi, la sua applicazione pratica e i principali vantaggi.
+
+- **YouTube Channels**:
+
+  1. [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) 📺  
+     Canale che copre ampiamente vari aspetti dei microservizi, inclusi DevOps, Docker, Kubernetes, e architetture a microservizi.
+
+  2. [GOTO Conferences](https://www.youtube.com/c/GOTOConferences) 📺  
+     Canale con numerosi video di conferenze incentrate su argomenti avanzati di architettura software, tra cui microservizi.
+
+- **Articoli**:
+
+  1. [Microservices Pattern](https://martinfowler.com/articles/microservices.html) ✍️  
+     Un articolo essenziale di Martin Fowler che esplora i pattern più comuni nell'architettura a microservizi e come utilizzarli nel proprio sviluppo.
+
+  2. [Microservices Best Practices](https://dilfuruz.medium.com/5-best-practices-for-microservices-architecture-7bc0bcd22893) ✍️  
+     Articolo che offre 5 delle migliori pratiche per progettare e sviluppare microservizi in modo efficace.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Microservices – Martin Fowler](https://martinfowler.com/articles/microservices.html)  
+    Una guida completa di Martin Fowler che esplora i concetti e le tecniche principali nell'adozione dei microservizi.
+
+  - [Microservices Architecture – Microsoft Docs](https://learn.microsoft.com/en-us/azure/architecture/microservices/) 📘  
+    La guida ufficiale di Microsoft per progettare e implementare architetture a microservizi utilizzando Azure, ma con principi applicabili a tutte le piattaforme.
+
+- **Best Course**:  
+  [Microservices Architecture and Implementation on AWS – freeCodeCamp](https://www.classcentral.com/course/freecodecamp-microservices-architecture-and-implementation-on-aws-112963) 🎥  
+  Un corso completo che ti insegna a costruire un'applicazione a microservizi utilizzando AWS, con esempi pratici. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Building Microservices"_ di Sam Newman 📚
-  2. _"Microservices Patterns"_ di Chris Richardson 📚
+
+  - 📘 _Microservices Patterns: With Examples in Java_ – Chris Richardson  
+    Un libro fondamentale che esplora modelli e pattern per l'implementazione di microservizi con esempi pratici.
+
+  - 📕 _Building Microservices_ – Sam Newman  
+    Una lettura cruciale per comprendere come progettare, sviluppare e gestire sistemi a microservizi scalabili.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Microservices with Spring Boot – Udemy](https://www.udemy.com/course/microservices-with-spring-boot/)**
+     Un corso altamente consigliato che insegna a sviluppare microservizi con Spring Boot e a integrarli in un'architettura distribuita. 🌐
+
+  2. **[Designing Microservices Systems – Pluralsight](https://www.pluralsight.com/courses/designing-microservices-systems)**
+     Un corso che esplora la progettazione di sistemi basati su microservizi, dalle considerazioni iniziali alla loro implementazione finale. 🌐
+
+  3. **[Microservices Architecture – Coursera](https://www.coursera.org/learn/microservices-architecture)**
+     Un corso che ti guida attraverso i concetti di base dell'architettura a microservizi e ti insegna come implementare microservizi scalabili e resilienti. 🌐

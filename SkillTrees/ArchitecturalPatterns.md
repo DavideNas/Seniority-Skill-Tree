@@ -125,9 +125,45 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Architectural Patterns Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=HLC5BYj35m0) ▶️
+### _Gratis_
+
+- **YouTube Videos**:
+
+  1. [Software Architecture Patterns (freeCodeCamp)](https://www.youtube.com/watch?v=RyZc1bn7rD0) ▶️
+  2. [Software Architecture Introduction – TechWorld with Nana](https://www.youtube.com/watch?v=1Ix8b9quY0E) ▶️
+
+- **YouTube Channels**:
+
+  1. [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) 📺
+  2. [ArjanCodes](https://www.youtube.com/@ArjanCodes) 📺
+
+- **Articoli**:
+
+  1. [9 Software Architecture Patterns EVERY Developer Should Know](https://blog.algomaster.io/p/9-software-architecture-patterns) ✍️
+  2. [Understanding Architectural Patterns – Medium](https://medium.com/geekculture/understanding-architectural-patterns-88ce0b040d3a) ✍️
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Microsoft – Architecture Styles](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/) 📘
+  - [Martin Fowler – Enterprise Application Patterns](https://martinfowler.com/eaaCatalog/) 📘
+
+- **Best Course**:  
+  [Software Architecture for Developers – Simon Brown (Leanpub)](https://leanpub.com/software-architecture-for-developers) 🎥
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Patterns of Enterprise Application Architecture"_ di Martin Fowler 📚
-  2. _"Software Architecture Patterns"_ di Mark Richards 📚
+
+  - 📕 _Patterns of Enterprise Application Architecture_ – Martin Fowler
+  - 📘 _Software Architecture: The Hard Parts_ – Neal Ford, Mark Richards
+  - 📙 _Clean Architecture_ – Robert C. Martin
+
+- **Corsi Consigliati dalla Community**:
+
+  1. [Software Design and Architecture Specialization – University of Alberta su Coursera](https://www.coursera.org/specializations/software-design-architecture?utm_source=chatgpt.com) 🌐
+  2. [iSAQB CPSA-F / CPSA-A – Certificazioni professionali](https://www.isaqb.org/en/certification/cpsa/) 🌐
+  3. [Software Architecture & Design of Modern Large Scale Systems – Udemy](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/) 🌐

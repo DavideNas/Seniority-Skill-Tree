@@ -147,9 +147,65 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Flutter Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=1gDhl4leEzA) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Flutter Tutorial for Beginners (freeCodeCamp)](https://www.youtube.com/watch?v=VPvPz3mM7Cs) ▶️  
+     Corso completo per principianti su Flutter, che copre i concetti base fino alla creazione di un'app mobile.
+
+  2. [Flutter Crash Course 2024 – Traversy Media](https://www.youtube.com/watch?v=1gDhl4leEzA) ▶️  
+     Corso intensivo che ti introduce a Flutter in modo rapido e conciso.
+
+- **YouTube Channels**:
+
+  1. [The Net Ninja](https://www.youtube.com/c/TheNetNinja) 📺  
+     Canale che offre tutorial completi su Flutter, dalle basi alle funzionalità avanzate.
+
+  2. [CodeWithChris](https://www.youtube.com/c/CodeWithChris) 📺  
+     Canale che offre tutorial dettagliati su Flutter, orientato sia a principianti che sviluppatori esperti.
+
+- **Articoli**:
+
+  1. [Flutter Documentation](https://flutter.dev/docs) ✍️  
+     La documentazione ufficiale di Flutter, una risorsa essenziale per comprendere tutte le funzionalità del framework.
+
+  2. [Building Your First Flutter App](https://flutter.dev/docs/get-started/codelab) ✍️  
+     Guida passo-passo per creare la tua prima app Flutter, utile per cominciare rapidamente.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Flutter Official Documentation](https://flutter.dev/docs) 📘  
+    La risorsa principale per apprendere tutte le funzionalità di Flutter, comprese le API e gli strumenti per il testing.
+
+  - [Flutter codelabs](https://flutter.dev/docs/codelabs) 📘  
+    Guida pratica per sperimentare Flutter direttamente nel browser e apprendere tramite esempi concreti.
+
+- **Best Course**:  
+  [Flutter & Dart – The Complete Guide (2024 Edition)](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) 🎥  
+  Corso completo che ti guiderà attraverso il processo di creazione di app mobile usando Flutter e Dart. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Flutter for Beginners"_ di Alessandro Biessek 📚
-  2. _"Beginning Flutter"_ di Marco L. Napoli 📚
+
+  - 📘 _Flutter in Action_ – Eric Windmill  
+    Una guida completa per imparare a costruire app con Flutter, adatta sia per principianti che sviluppatori esperti.
+
+  - 📙 _Flutter for Beginners_ – Alessandro Biessek  
+    Un libro che ti insegna le basi di Flutter e Dart, con un focus sulla creazione di app responsive e performanti.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Flutter & Dart – The Complete Guide (2024 Edition)](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)**  
+     Corso completo che viene spesso raccomandato dalla community Flutter per imparare a creare applicazioni mobile complete. 🌐
+
+  2. **[The Complete Flutter Development Bootcamp Using Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)**  
+     Un altro corso altamente consigliato dalla community per apprendere Flutter e Dart in modo intensivo. 🌐
+
+  3. **[Master Flutter: Build Android & iOS Apps with Google's Flutter](https://www.udemy.com/course/flutter-dart-the-complete-flutter-development-course/)**  
+     Corso che ti porta dall'inizio fino alla creazione di app Android e iOS utilizzando Flutter e Dart. 🌐

@@ -144,9 +144,65 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## ☁️ Risorse & Libri x studiare:
 
-- **YouTube**: [Cloud Engineering Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=1vrh9HD1JXE) ▶️
+### _Gratis_
+
+- **YouTube Videos**:
+
+  1. [AWS Cloud Engineer Full Course for Beginners – Simplilearn](https://www.youtube.com/watch?v=j_StCjwpfmk) ▶️  
+     Corso completo per principianti focalizzato su AWS, copre i concetti fondamentali del cloud computing.
+
+  2. [Cloud Computing Full Course 2025 – Edureka](https://www.youtube.com/watch?v=6b7m-gpwgsQ) ▶️  
+     Corso approfondito di 9 ore che tratta vari aspetti del cloud computing.
+
+- **YouTube Channels**:
+
+  1. [Simplilearn](https://www.youtube.com/@SimplilearnOfficial) 📺  
+     Offre numerosi tutorial e corsi su cloud computing e altre tecnologie.
+
+  2. [Edureka](https://www.youtube.com/@edurekaIN) 📺  
+     Canale educativo con corsi approfonditi su cloud computing e sviluppo software.
+
+- **Articoli**:
+
+  1. [4 of the Best Learning Resources for Beginner Cloud Engineers – Medium](https://jordbrown.medium.com/the-best-learning-resources-for-aspiring-cloud-engineers-a54f98857393) ✍️  
+     Raccolta di risorse consigliate per aspiranti ingegneri cloud.
+
+  2. [Top 10+ Free Online Resources to Learn Cloud Computing – Ace Cloud Hosting](https://www.acecloudhosting.com/blog/top-10-free-online-resources-to-learn-cloud-computing/) ✍️  
+     Elenco di risorse gratuite online per apprendere il cloud computing.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Google Cloud Training](https://cloud.google.com/learn/training) 📘  
+    Corsi on-demand e laboratori pratici per apprendere Google Cloud.
+
+  - [AWS Educate](https://aws.amazon.com/education/awseducate/) 📘  
+    Biblioteca estesa di formazione online gratuita su AWS.
+
+- **Best Course**:  
+  [Cloud Computing Tutorial For Beginners – Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFtZ5oAAeOgi_nH-txMcDMu) 🎥
+  Playlist di tutorial per principianti che copre i concetti base del cloud compting.
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Architecting the Cloud"_ di Michael K. Keeling 📚
-  2. _"Cloud Native Patterns"_ di Cornelia Davis 📚
+
+  - 📕 _Cloud Computing: Concepts, Technology & Architecture_ – Thomas Erl  
+    Guida completa ai concetti e all'architettura del cloud computing.
+
+  - 📘 _Architecting the Cloud: Design Decisions for Cloud Computing Service Models_ – Michael J. Kavis  
+    Approfondimento sulle decisioni di progettazione per i modelli di servizio cloud.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Cloud Computing Specialization – Coursera](https://www.coursera.org/courses?query=cloud+computing&skills=Cloud+Computing)**  
+     Specializzazione che copre l'architettura, la distribuzione e la sicurezza nel cloud computing.
+
+  2. **[Top Cloud Computing Courses Online – Udemy](https://www.udemy.com/topic/cloud-computing/?srsltid=AfmBOoqbY0pxjs4F9VPr12yclDQy4x4hPnNl2pwgOItyuPD12ug1nflg)**  
+     Ampia selezione di corsi su cloud computing, inclusi AWS, Azure e Google Cloud.
+
+  3. **[Preparing for Google Cloud Certification: Cloud Engineer – Coursera](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)**  
+     Programma che fornisce le competenze necessarie per avanzare nella carriera in architettura cloud e ottenere la certificazione Google Cloud Associate Cloud Engineer.

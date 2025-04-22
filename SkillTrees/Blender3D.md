@@ -120,9 +120,68 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Blender Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=JYj6GzH7q-k) ▶️
+### _Gratis_
+
+- **YouTube Videos**:
+
+  1. [Blender Tutorial for Complete Beginners – Blender Guru](https://www.youtube.com/watch?v=B0J27sf9N1Y) ▶️  
+     Il celebre "Donut Tutorial" di Andrew Price, ideale per chi inizia da zero.
+
+  2. [Full Blender 4 Course for Complete Beginners 2025](https://www.youtube.com/watch?v=r6ZQil-zd5Y) ▶️  
+     Corso completo e aggiornato per imparare Blender passo dopo passo.
+
+- **YouTube Channels**:
+
+  1. [Blender Guru](https://www.youtube.com/@blenderguru) 📺  
+     Tutorial di alta qualità su modellazione, rendering e altro ancora.
+
+  2. [Grant Abbitt](https://www.youtube.com/@GrantAbbitt) 📺  
+     Lezioni chiare e pratiche su vari aspetti di Blender.
+
+- **Articoli**:
+
+  1. [Blender 3D: Noob to Pro – Free Computer Books](https://freecomputerbooks.com/Blender-3D-Noob-to-Pro.html) ✍️  
+     Serie di tutorial progressivi per principianti.
+
+  2. [Top Blender 3D Books Every Digital Artist Should Read – Vagon](https://vagon.io/blog/top-blender-3d-books-every-digital-artist-should-read) ✍️  
+     Elenco dei migliori libri su Blender per artisti digitali.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Blender Manual](https://docs.blender.org/manual/en/latest/) 📘  
+    Documentazione ufficiale di Blender.
+
+  - [Blender Studio – Training](https://studio.blender.org/training/) 📘  
+    Corsi e workshop ufficiali con file .blend inclusi.
+
+- **Best Course**:  
+  [Blender Fundamentals – Blender Official](https://www.youtube.com/playlist?list=PL9TG6Y5BX6gWjwbiIW0mHY_xqh5A7so78) �  
+  Serie ufficiale di tutorial per principianti, copre l'interfaccia, modellazione, animazione e renering.
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Blender For Dummies"_ di Jason van Gumster 📚
-  2. _"Blender Master Class"_ di Ben Simonds 📚
+
+  - 📕 _The Essential Blender 4.1 2024 Guide For Beginners_ – Jazemune Wualsona  
+    Guida completa per principianti su modellazione, animazione e rendering.
+
+  - 📘 _Blender 3D By Example_ – Oscar Baechler, Xury Greer  
+    Approccio pratico con esempi reali per imparare Blender.
+
+  - 📙 _Blender 3D Basics_ – Gordon Fisher  
+    Introduzione passo dopo passo alla modellazione e animazione 3D.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Blender 3D from Zero to Hero – Udemy](https://www.udemy.com/course/blender-3d-from-zero-to-hero/)** 📚  
+     Corso completo per imparare Blender da principiante a esperto.
+
+  2. **[Creating 3D Environments in Blender – Domestika](https://www.domestika.org/en/courses/software/43-blender)** 📚  
+     Impara a creare ambienti 3D dettagliati e realistici.
+
+  3. **[Top Blender Courses Online – Udemy](https://www.udemy.com/topic/blender/)** 📚  
+     Ampia selezione di corsi su modellazione, animazione e rendering.

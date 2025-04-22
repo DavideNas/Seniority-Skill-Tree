@@ -145,9 +145,68 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Elixir Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=v2er54rTV2k) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Elixir for Beginners | full course](https://www.youtube.com/watch?v=b4XjzXFYFhA) ▶️  
+     Corso completo introduttivo a Elixir, adatto ai principianti.
+
+  2. [Elixir Crash Course](https://www.youtube.com/watch?v=JdJ_l_tIFjE) ▶️  
+     Crash course che esplora le basi di Elixir e la concorrenza.
+
+- **YouTube Channels**:
+
+  1. [Alchemist Camp](https://www.youtube.com/@AlchemistCamp) 📺  
+     Canale con tutorial e risorse per imparare Elixir e la programmazione funzionale.
+
+  2. [The Pragmatic Studio](https://www.youtube.com/@pragmaticstudio) 📺  
+     Video su Elixir e altre risorse legate alla programmazione funzionale.
+
+- **Articoli**:
+
+  1. [Elixir Getting Started](https://elixir-lang.org/getting-started/introduction.html) ✍️  
+     Guida ufficiale per iniziare a programmare in Elixir.
+
+  2. [10 Elixir Tips and Tricks Every Developer Should Know](https://www.freecodecamp.org/news/10-elixir-tips-and-tricks/) ✍️  
+     Una lista di suggerimenti per migliorare il codice in Elixir.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Official Elixir Docs](https://elixir-lang.org/docs.html) 📘  
+    La documentazione ufficiale di Elixir, fondamentale per comprendere le funzionalità del linguaggio.
+
+  - [Elixir School](https://elixirschool.com/en/) 📘  
+    Una guida open source che offre una serie di tutorial e articoli su Elixir.
+
+- **Best Course**:  
+  [Elixir Fundamentals – Pluralsight](https://www.pluralsight.com/courses/elixir-fundamentals) 🎥  
+  Corso che copre le basi di Elixir e come sviluppare applicazioni concurrenti.🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Programming Elixir"_ di Dave Thomas 📚
-  2. _"Phoenix: Up and Running"_ di Bruce Tate 📚
+
+  - 📕 _Programming Elixir_ – Dave Thomas  
+    Il libro fondamentale per imparare Elixir, copre in dettaglio la programmazione concorrente.
+
+  - 📘 _Elixir in Action_ – Saša Jurić  
+    Approfondimento su come scrivere codice scalabile con Elixir.
+
+  - 📙 _Metaprogramming Elixir_ – Chris McCord  
+    Focalizzato sulla metaprogrammazione con Elixir, utile per sviluppatori avanzati.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[The Pragmatic Studio: Learn Elixir](https://pragprog.com/titles/elixir/)**  
+     Corso completo per diventare un esperto in Elixir, con un progetto pratico. 🌐
+
+  2. **[Elixir for Programmers](https://www.learn-elixir.com/) – Learn Elixir**  
+     Una guida pratica che ti porta da un livello principiante a avanzato con progetti reali. 🌐
+
+  3. **[Elixir and Phoenix for Beginners – Udemy](https://www.udemy.com/course/elixir-and-phoenix-for-beginners/)**  
+     Corso che introduce sia Elixir che il framework Phoenix per lo sviluppo web. 🌐

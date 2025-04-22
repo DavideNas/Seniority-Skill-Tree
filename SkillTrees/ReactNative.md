@@ -149,9 +149,60 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [React Native Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=0-S5a0eXPoc) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [React Native Full Course – freeCodeCamp](https://www.youtube.com/watch?v=0-S5a0eXPoc) ▶️  
+     Corso completo di React Native che copre le basi della creazione di app mobili per iOS e Android.
+
+  2. [React Native Crash Course 2024 – Traversy Media](https://www.youtube.com/watch?v=F1pPbIGVYxk) ▶️  
+     Un crash course che ti introduce a React Native e ti guida nella costruzione di una app mobile.
+
+- **YouTube Channels**:
+
+  1. [Code with Mark](https://www.youtube.com/c/CodewithMark) 📺  
+     Canale che offre tutorial su React Native per sviluppare applicazioni mobili interattive e complesse.
+
+  2. [React Native School](https://www.youtube.com/c/ReactNativeSchool) 📺  
+     Canale che si concentra esclusivamente su React Native, con progetti, suggerimenti e soluzioni pratiche per sviluppatori mobile.
+
+- **Articoli**:
+
+  1. [Official React Native Documentation](https://reactnative.dev/docs/getting-started) ✍️  
+     La documentazione ufficiale di React Native con tutorial, API e best practices.
+
+  2. [Learn React Native – Codecademy](https://www.codecademy.com/learn/learn-react-native) ✍️  
+     Una guida interattiva che ti insegna i fondamenti di React Native, con esempi pratici.
+
+- **Best Course**:  
+  [React Native – Full Course 2024 (Udemy)](https://www.udemy.com/course/react-native-the-practical-guide/) 🎥  
+  Corso completo che copre la creazione di applicazioni mobili per iOS e Android, gestione dello stato, navigation, e molto altro. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Learning React Native"_ di Bonnie Eisenman 📚
-  2. _"React Native in Action"_ di Nader Dabit 📚
+
+  - 📘 _Learning React Native_ – Bonnie Eisenman  
+    Un libro che esplora la creazione di applicazioni mobili con React Native, adatto a chi vuole comprendere meglio il framework.
+
+  - 📕 _React Native in Action_ – Nader Dabit  
+    Un libro che offre una guida completa per costruire applicazioni mobili con React Native, inclusi suggerimenti per l'integrazione con librerie native.
+
+  - 📙 _React Native Cookbook_ – Jonathan Lebensold  
+    Una raccolta di soluzioni pronte all'uso per affrontare le problematiche comuni nello sviluppo di applicazioni mobili con React Native.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[React Native – The Complete Guide (incl Redux) – Udemy](https://www.udemy.com/course/react-native-the-complete-guide/)**
+     Corso completo su React Native che copre dalla configurazione iniziale fino alle app complesse, includendo Redux per la gestione dello stato. 🌐
+
+  2. **[The React Native Course – Academind (Udemy)](https://www.udemy.com/course/react-native-the-practical-guide/)**
+     Un altro corso completo che ti guida attraverso la creazione di applicazioni mobili professionali con React Native, inclusi componenti avanzati e integrazioni native.
+
+  3. **[Advanced React Native – Udemy](https://www.udemy.com/course/advanced-react-native/)**
+     Corso avanzato che esplora le caratteristiche più complesse di React Native, come l'integrazione di librerie native e la gestione di app più grandi.

@@ -117,4 +117,65 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
+
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Introduction to HLSL – CodeBeauty](https://www.youtube.com/watch?v=F0YyBtrAXhw) ▶️  
+     Un'introduzione agli shader HLSL, con una guida passo-passo su come creare il tuo primo shader.
+
+  2. [HLSL Tutorial for Beginners – The Cherno](https://www.youtube.com/watch?v=wrzyKpyuJ7Y) ▶️  
+     Video tutorial che esplora le basi di HLSL e come integrarlo nei tuoi progetti di grafica.
+
+- **YouTube Channels**:
+
+  1. [The Cherno](https://www.youtube.com/c/TheCherno) 📺  
+     Canale dedicato alla programmazione di giochi, compresi tutorial su grafica e shader HLSL.
+
+  2. [Making Games With HLSL](https://www.youtube.com/c/MakingGamesWithHLSL) 📺  
+     Canale che si concentra sullo sviluppo di shader HLSL per giochi e applicazioni grafiche.
+
+- **Articoli**:
+
+  1. [Introduction to HLSL for Beginners](https://www.gamedevs.org/learn/hlsl-for-beginners/) ✍️  
+     Una guida introduttiva su HLSL, utile per chi inizia a lavorare con shader grafici.
+
+  2. [Shader Programming in HLSL](https://www.rastertek.com/tutindex.html) ✍️  
+     Una risorsa utile per apprendere le basi degli shader HLSL, con tutorial che coprono vari aspetti delle tecniche di shading.
+
+- **Documentazione ufficiale**:
+
+  - [Microsoft HLSL Documentation](https://learn.microsoft.com/en-us/windows/win32/direct3d12/hlsl?redirectedfrom=MSDN) 📚  
+    La documentazione ufficiale di Microsoft per HLSL, con dettagli su sintassi, funzioni e tecniche di rendering.
+
+- **Best Course**:  
+  [HLSL Shader Programming – Udemy](https://www.udemy.com/course/hlsl-shader-programming/) 🎥  
+  Corso completo per imparare HLSL, utile sia per principianti che per sviluppatori esperti in grafica. 🌐
+
+---
+
+### _A Pagamento_
+
+- **Libri**:
+
+  - 📘 _Introduction to Computer Graphics and the Vulkan API_ – Kenwright  
+    Una guida che esplora la grafica moderna, incluse le tecniche di shading con HLSL e Vulkan.
+
+  - 📕 _Real-Time Rendering_ – Tomas Akenine-Möller, Eric Haines  
+    Un libro di riferimento per la grafica 3D in tempo reale, con una sezione sugli shader e HLSL.
+
+  - 📙 _GPU Pro/GPU Zen series_ – Wolfgang Engel (various authors)  
+    Una serie di libri che approfondisce tecniche avanzate per la programmazione degli shader, inclusi esempi HLSL.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Advanced Shader Programming with HLSL – Udemy](https://www.udemy.com/course/advanced-shader-programming-hlsl/)**
+     Un corso avanzato su HLSL che esplora shader complessi per giochi e simulazioni. 🌐
+
+  2. **[HLSL Shaders for Games – Pluralsight](https://www.pluralsight.com/courses/hlsl-shaders-games)**
+     Corso che ti insegna come utilizzare HLSL per sviluppare shader per giochi, partendo dalle basi fino a tecniche avanzate. 🌐
+
+  3. **[Creating Real-Time Graphics with HLSL – Coursera](https://www.coursera.org/learn/real-time-graphics-hlsl)**
+     Un corso incentrato sulla creazione di grafiche in tempo reale utilizzando HLSL e DirectX. 🌐

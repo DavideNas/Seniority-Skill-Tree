@@ -139,9 +139,68 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Node.js Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=RLtyhwFtXQA) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Node.js Full Course – freeCodeCamp](https://www.youtube.com/watch?v=RLtyhwFtXq4) ▶️  
+     Un corso completo che copre le basi di Node.js, la gestione di pacchetti con npm, e la creazione di applicazioni web.
+
+  2. [Node.js Crash Course – Traversy Media](https://www.youtube.com/watch?v=fBNz5xF-Kx4) ▶️  
+     Corso introduttivo su Node.js che copre la configurazione di un ambiente di sviluppo e la creazione di un'applicazione base.
+
+- **YouTube Channels**:
+
+  1. [Codevolution](https://www.youtube.com/c/Codevolution) 📺  
+     Canale con tutorial avanzati e completi su Node.js, Express.js, e altre tecnologie backend.
+
+  2. [Academind](https://www.youtube.com/c/Academind) 📺  
+     Canale che offre una panoramica dettagliata su Node.js e altre tecnologie full-stack.
+
+- **Articoli**:
+
+  1. [Learn Node.js](https://nodejs.dev/learn) ✍️  
+     Guida ufficiale per iniziare con Node.js, coprendo le basi e la creazione di app scalabili.
+
+  2. [The 10 Best Node.js Tutorials for Beginners](https://www.toptal.com/nodejs/nodejs-tutorial-guide) ✍️  
+     Una selezione dei migliori tutorial su Node.js per principianti, che coprono il routing, la gestione delle richieste HTTP e la creazione di applicazioni web.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Node.js Documentation](https://nodejs.org/en/docs/) 📘  
+    La documentazione ufficiale di Node.js, che copre ogni aspetto del framework e delle sue API.
+
+  - [Express.js Documentation](https://expressjs.com/) 📘  
+    La documentazione ufficiale di Express.js, un framework che si integra perfettamente con Node.js per costruire applicazioni web robuste.
+
+- **Best Course**:  
+  [Node.js – The Complete Guide (MVC, REST APIs, GraphQL, Deno) – Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) 🎥  
+  Un corso completo che ti porta dalla creazione di un'app di base fino alla costruzione di sistemi complessi con Node.js, Express e GraphQL. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Node.js Design Patterns"_ di Mario Casciaro 📚
-  2. _"Learning Node.js"_ di Shelley Powers 📚
+
+  - 📘 _Node.js Design Patterns_ – Mario Casciaro  
+    Un libro che esplora i pattern di progettazione avanzati per Node.js e ti insegna come costruire applicazioni scalabili.
+
+  - 📕 _Learning Node.js_ – Shelley Powers  
+    Una risorsa completa che copre le basi di Node.js e ti insegna a costruire applicazioni web dinamiche.
+
+  - 📙 _Node.js Web Development_ – David Herron  
+    Un libro che ti guida passo dopo passo attraverso la creazione di applicazioni web con Node.js.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Node.js, Express, MongoDB & More: The Complete Bootcamp – Udemy](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)**
+     Un corso che ti insegna a costruire applicazioni complete con Node.js, Express, e MongoDB, che copre anche l'autenticazione e il deployment. 🌐
+
+  2. **[Building Scalable APIs with Node.js – Pluralsight](https://www.pluralsight.com/courses/building-scalable-apis-nodejs)**
+     Un corso che ti aiuta a costruire API REST scalabili e veloci con Node.js, Express, e MongoDB. 🌐
+
+  3. **[Node.js & Express – Codecademy](https://www.codecademy.com/learn/learn-node-js)**
+     Un corso interattivo che ti insegna a costruire server web con Node.js e Express, utilizzando la programmazione asincrona. 🌐

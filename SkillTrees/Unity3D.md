@@ -122,9 +122,60 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Unity 3D Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=IlKaB1etrik) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Unity 3D Game Development Course – freeCodeCamp](https://www.youtube.com/watch?v=IlKaB1etrik) ▶️  
+     Corso completo su Unity 3D per principianti, dove esplorerai i fondamenti del game development.
+
+  2. [Unity 3D Tutorial for Beginners – Brackeys](https://www.youtube.com/watch?v=IlKaB1etrik) ▶️  
+     Un tutorial che introduce Unity, utile per imparare a creare il tuo primo gioco con la piattaforma.
+
+- **YouTube Channels**:
+
+  1. [Brackeys](https://www.youtube.com/c/Brackeys) 📺  
+     Canale molto popolare per imparare Unity 3D, con tutorial che coprono tutti gli aspetti del game development.
+
+  2. [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity) 📺  
+     Un altro canale eccellente per tutorial e risorse su Unity, che esplora anche scripting e tecniche avanzate.
+
+- **Articoli**:
+
+  1. [Unity Documentation](https://docs.unity3d.com/Manual/index.html) ✍️  
+     La documentazione ufficiale di Unity, una risorsa indispensabile per chi vuole conoscere ogni aspetto della piattaforma.
+
+  2. [Unity 3D Beginner Guide – Ray Wenderlich](https://www.raywenderlich.com/156-unity-3d-tutorials) ✍️  
+     Una guida per principianti che esplora il mondo di Unity 3D con esempi pratici e tutorial passo-passo.
+
+- **Best Course**:  
+  [Unity 3D Game Development Course – freeCodeCamp](https://www.freecodecamp.org/news/learn-unity-3d-game-development/) 🎥  
+  Un corso gratuito che ti guida nella creazione di giochi in Unity, perfetto per chi parte da zero. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Unity 2021 Cookbook"_ di Matt Smith 📚
-  2. _"Learning C# by Developing Games with Unity"_ di Harrison Ferrone 📚
+
+  - 📘 _Unity in Action: Multiplatform Game Development in C#_ – Joseph Hocking  
+    Un libro completo che ti insegna a sviluppare giochi con Unity, coprendo dai fondamenti fino alle tecniche più avanzate.
+
+  - 📕 _Learning C# by Developing Games with Unity 2020_ – Harrison Ferrone  
+    Un altro libro che ti guida nell’apprendimento di C# per Unity, unendo teoria e pratica nella creazione di giochi.
+
+  - 📙 _Unity 2020 By Example_ – Alan Thorn  
+    Una guida pratico-applicativa che esplora lo sviluppo di giochi con Unity, attraverso progetti concreti e casi di studio.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Complete C# Unity Game Developer 2D – Udemy](https://www.udemy.com/course/unitycourse/)**  
+     Questo corso è molto apprezzato dalla community, in quanto ti guida attraverso la creazione di giochi 2D e l'apprendimento di C# in Unity. 🌐
+
+  2. **[Unity Game Development: Make 2D & 3D Games – Coursera](https://www.coursera.org/learn/unity-game-development)**  
+     Un corso offerto da Unity Technologies, che esplora la creazione di giochi sia 2D che 3D con Unity, partendo dalle basi. 🌐
+
+  3. **[Master Unity 3D Game Development – Udemy](https://www.udemy.com/course/master-unity-game-development/)**  
+     Un altro corso di Udemy consigliato per chi vuole sviluppare giochi in 3D con Unity, con tecniche avanzate e progetti pratici. 🌐

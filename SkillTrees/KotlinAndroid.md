@@ -135,9 +135,65 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Kotlin Android Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=F9UC9DYuVaw) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Kotlin for Android Development – freeCodeCamp](https://www.youtube.com/watch?v=F9UC9DYuTNE) ▶️  
+     Un corso completo per imparare Kotlin, utilizzato per lo sviluppo di applicazioni Android, con esempi pratici e spiegazioni chiare.
+
+  2. [Android Development with Kotlin – Traversy Media](https://www.youtube.com/watch?v=Fl6p9gOh9OU) ▶️  
+     Un'introduzione a Kotlin e come usarlo per sviluppare applicazioni Android, coprendo concetti base e principi fondamentali.
+
+- **YouTube Channels**:
+
+  1. [Android Developers](https://www.youtube.com/c/AndroidDevelopers) 📺  
+     Il canale ufficiale degli sviluppatori Android, che offre tutorial, approfondimenti e le ultime novità sullo sviluppo Android con Kotlin.
+
+  2. [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry) 📺  
+     Un canale che offre tutorial su Kotlin per Android e altri linguaggi di programmazione, con esempi pratici ed esercizi.
+
+- **Articoli**:
+
+  1. [Kotlin Documentation – Android Developer](https://developer.android.com/kotlin) ✍️  
+     La documentazione ufficiale di Kotlin per Android, una risorsa essenziale per imparare a usare Kotlin nel contesto dello sviluppo Android.
+
+  2. [Kotlin for Android Developers – Medium](https://medium.com/kotlin-for-android) ✍️  
+     Una serie di articoli su Medium che copre l'uso di Kotlin per lo sviluppo Android, con tutorial passo passo e best practices.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Android Developers – Kotlin](https://developer.android.com/kotlin) 📘  
+    Una guida ufficiale da Google che ti aiuterà a iniziare con Kotlin per Android, con esempi, tutorial e risorse aggiuntive.
+
+  - [Kotlin Documentation – Official](https://kotlinlang.org/docs/home.html) 📘  
+    La documentazione ufficiale di Kotlin che copre tutto, dalla sintassi di base fino agli aspetti più avanzati del linguaggio.
+
+- **Best Course**:  
+  [Android Kotlin Fundamentals (Google)](https://developer.android.com/courses/kotlin-android-fundamentals) 🎥  
+  Corso ufficiale di Google che ti insegna le basi di Kotlin per sviluppare applicazioni Android moderne. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Kotlin Programming: The Big Nerd Ranch Guide"_ di Josh Skeen 📚
-  2. _"Android Programming with Kotlin"_ di Peter Späth 📚
+
+  - 📘 _Kotlin Programming: The Big Nerd Ranch Guide_ – Josh Skeen, David Greenhalgh  
+    Un libro che offre una panoramica completa di Kotlin e come usarlo per lo sviluppo Android, con esempi pratici e progetti reali.
+
+  - 📕 _Android Programming with Kotlin for Beginners_ – John Horton  
+    Un libro perfetto per chi è alle prime armi con Android e Kotlin, con esempi e esercizi che ti aiuteranno a costruire applicazioni Android.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[The Complete Android App Developer Bootcamp – Udemy](https://www.udemy.com/course/the-complete-android-app-developer-bootcamp/)**
+     Corso consigliato dalla community che ti guida passo passo nella creazione di app Android usando Kotlin e altre tecnologie moderne. 🌐
+
+  2. **[Android Development with Kotlin – Codecademy](https://www.codecademy.com/learn/paths/build-web-apps-with-react)**
+     Un corso che ti insegna a sviluppare app Android moderne con Kotlin, includendo aspetti avanzati come l'integrazione con le API. 🌐
+
+  3. **[Android Kotlin Developer – Pluralsight](https://www.pluralsight.com/courses/android-kotlin-developer)**
+     Corso avanzato che ti insegna ad utilizzare Kotlin per costruire applicazioni Android scalabili e robuste. 🌐

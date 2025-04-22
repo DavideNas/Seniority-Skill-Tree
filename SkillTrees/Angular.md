@@ -151,9 +151,56 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Angular Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=htPYk6QxacQ) ▶️
+### _Gratis_
+
+- **YouTube Videos**:
+
+  1. [Angular Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=htPYk6QxacQ) ▶️
+     - Completo e ben strutturato, adatto a principianti.
+  2. [Angular Crash Course 2024 – Traversy Media](https://www.youtube.com/watch?v=3dHNOWTI7H8) ▶️
+     - Un'introduzione rapida ad Angular, perfetta per chi ha poco tempo a disposizione.
+
+- **YouTube Channels**:
+
+  1. [DecodedFrontend](https://www.youtube.com/@DecodedFrontend) 📺
+     - Ottimo canale per approfondire Angular con tutorial chiari e semplici.
+  2. [ARCTutorials](https://www.youtube.com/@ARCTutorials) 📺
+     - Canale con una varietà di contenuti su Angular e sviluppo frontend in generale.
+
+- **Documentazione ufficiale Angular**: [https://angular.io/docs](https://angular.io/docs) 📘
+
+  - Guida ufficiale di Angular, punto di riferimento essenziale per ogni sviluppatore.
+
+- **StackBlitz Playground** (per testare codice Angular online): [https://stackblitz.com/](https://stackblitz.com/) 🖥️
+
+  - Ambiente di sviluppo online per Angular, ideale per testare codice velocemente senza dover configurare nulla localmente.
+
+- **Best Course**:  
+  [Reddit clone with Angular & Spring](https://www.classcentral.com/course/freecodecamp-spring-boot-and-angular-tutorial-build-a-reddit-clone-coding-project-105005?utm_source=chatgpt.com) 🎥
+  - Corso altamente raccomandato dalla community per imparare Angular integrato con Spring, creando un clone di Reddit come progetto pratico.
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Pro Angular 9"_ di Adam Freeman 📚
-  2. _"Angular Up and Running"_ di Shyam Seshadri 📚
+
+  - 📘 _Angular Up & Running_ – Shyam Seshadri
+    - Una guida pratica per sviluppatori Angular che vogliono migliorare la loro conoscenza del framework.
+  - 📕 _ng-book: The Complete Guide to Angular_ – Nate Murray, Felipe Coury
+    - Un libro completo, perfetto per comprendere ogni aspetto di Angular dalla base fino agli argomenti avanzati.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Angular – The Complete Guide (2025 Edition) – Udemy](https://www.udemy.com/course/the-complete-guide-to-angular-2/)** 📚
+
+     - Corso completo che copre Angular dalla versione 2 alla 17, con progetti pratici.
+
+  2. **[Ultimate Angular – Todd Motto](https://ultimatecourses.com/courses/angular)** 📚
+
+     - Corso avanzato che copre Angular, RxJS, TypeScript e NgRx.
+
+  3. **[Complete Angular Developer in 2025: Zero to Mastery – Udemy](https://www.udemy.com/course/complete-angular-developer-zero-to-mastery/)** 📚
+     - Corso aggiornato per il 2025, ideale per sviluppatori che vogliono approfondire Angular.

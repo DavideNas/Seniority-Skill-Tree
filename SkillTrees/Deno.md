@@ -148,9 +148,65 @@ Ecco la **Skill Stack 2025** per diventare un **Senior Deno (JS/TS) Developer**,
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🦕 Risorse & Libri x studiare:
 
-- **YouTube**: [Deno Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=Jj8g7qzD8So) ▶️
+### _Gratis_
+
+- **YouTube Videos**:
+
+  1. [Deno Tutorial - Full Course 3.5 Hours (2020) – Bitfumes](https://www.youtube.com/watch?v=zU6-8w1IR-I) ▶️  
+     Corso completo di 3,5 ore che copre le basi di Deno, incluso l'utilizzo di moduli e la creazione di API.
+
+  2. [Deno For Beginners – Playlist](https://www.youtube.com/playlist?list=PLIZPrus9as4yfWrh1hqz_BBnKcXpbFIl4) ▶️  
+     Serie di video introduttivi su Deno, ideali per chi parte da zero.
+
+- **YouTube Channels**:
+
+  1. [Fireship](https://www.youtube.com/@Fireship) 📺  
+     Canale noto per tutorial rapidi e informativi su tecnologie moderne, inclusi video su Deno.
+
+  2. [The Net Ninja](https://www.youtube.com/@NetNinja) 📺  
+     Offre una varietà di corsi su sviluppo web, con contenuti anche su Deno.
+
+- **Articoli**:
+
+  1. [Deno Basics for Beginners – Daily.dev](https://daily.dev/blog/deno-basics-for-beginners) ✍️  
+     Introduzione alle funzionalità chiave di Deno, con esempi pratici per iniziare.
+
+  2. [The Deno Handbook – freeCodeCamp](https://www.freecodecamp.org/news/the-deno-handbook/) ✍️  
+     Guida dettagliata che confronta Deno con Node.js e mostra come costruire una REST API.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Deno Documentation](https://docs.deno.com/) 📘  
+    Documentazione ufficiale con guide, esempi e API reference.
+
+  - [Deno Deploy Tutorials](https://docs.deno.com/deploy/tutorials/) 📘  
+    Raccolta di tutorial per imparare a distribuire applicazioni con Deno Deploy.
+
+- **Best Course**:  
+  [Deno Beginner – Awais](https://denobeginner.com/) �  
+  Corso gratuito composto da 14 video che insegnano Deno attraverso la costruzione di tre progetti seplici.
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Mastering Deno"_ di Elad Elrom 📚
-  2. _"Deno Web Development"_ di Shing Lyu 📚
+
+  - 📕 _Introducing Deno: A First Look at the Newest JavaScript Runtime_ – Fernando Doglio  
+    Esplora le caratteristiche principali di Deno e come utilizzarlo per lo sviluppo moderno.
+
+  - 📘 _Deno Web Development_ – Mike Chelen  
+    Guida pratica per costruire applicazioni web utilizzando Deno e TypeScript.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Deno Full Course – Fireship.io](https://fireship.io/courses/deno/)**  
+     Corso pratico per costruire un'app web completa con Deno, senza dipendenze di terze parti. 🌐
+
+  2. **[Learn Deno – Zero to Mastery](https://zerotomastery.io/courses/learn-deno/)**  
+     Corso che copre le basi di Deno fino alla costruzione di un sistema di lancio NASA simulato. 🌐
+
+  3. **[Getting Started with Deno – Udemy](https://www.udemy.com/course/getting-started-with-deno-a-complete-guide-for-beginners/)**  
+     Guida completa per principianti su come creare, testare e distribuire applicazioni con Deno. 🌐

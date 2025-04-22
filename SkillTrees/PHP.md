@@ -1,7 +1,3 @@
-Perfetto! Ecco una **Skill Tree aggiornata al 2025 per uno sviluppatore PHP** che include sia elementi **legacy** (PHP 5–7) che le **evoluzioni moderne** (PHP 8–8.3), con attenzione a OOP, sicurezza, testing, Laravel, performance, DevOps, API e compatibilità con ambienti enterprise/cloud.
-
----
-
 ## 🐘 PHP Developer – Skill Tree (Legacy + Modern PHP, 2025)
 
 ---
@@ -122,14 +118,68 @@ Perfetto! Ecco una **Skill Tree aggiornata al 2025 per uno sviluppatore PHP** ch
 
 ---
 
-### 📘 Risorse Consigliate
+## 🎓 Risorse & Libri per studiare:
 
-- **YouTube**
+### _Gratuite_
 
-  - [Laravel Daily](https://www.youtube.com/@LaravelDaily) – Laravel moderno e best practice ▶️
-  - [Codecourse](https://www.youtube.com/@Codecourse) – Laravel & testing ▶️
+- **YouTube Videos**:
 
-- **Libri**
-  1. 📘 _Laravel: Up and Running_ – Matt Stauffer
-  2. 📗 _Modern PHP_ – Josh Lockhart
-  3. 📕 _Clean Code in PHP_ – Carsten Windler
+  1. [PHP for Beginners – freeCodeCamp](https://www.youtube.com/watch?v=OK_JCtrrv-c) ▶️  
+     Corso completo di PHP per principianti, coprendo tutto, dalla sintassi di base alla creazione di progetti web.
+
+  2. [PHP Tutorial – Traversy Media](https://www.youtube.com/watch?v=8kK-cA3B4Ck) ▶️  
+     Corso che esplora PHP dal livello base ad avanzato, compresa la creazione di applicazioni web con database MySQL.
+
+- **YouTube Channels**:
+
+  1. [Codecourse](https://www.youtube.com/c/Codecourse) 📺  
+     Canale che fornisce tutorial pratici su PHP e sviluppo web, con esempi reali di codice.
+
+  2. [PHP Academy](https://www.youtube.com/user/phpacademy) 📺  
+     Un canale dedicato agli sviluppatori PHP, con tutorial su framework, gestione database e ottimizzazione delle performance.
+
+- **Articoli**:
+
+  1. [PHP Manual – Official Documentation](https://www.php.net/manual/en/) ✍️  
+     La documentazione ufficiale di PHP, che fornisce una guida completa su funzioni, classi, e best practices.
+
+  2. [PHP for Beginners: A Step-by-Step Guide](https://www.tutorialrepublic.com/php-tutorial/) ✍️  
+     Una guida dettagliata per chi inizia con PHP, che copre concetti come variabili, loop, array e gestione dei form.
+
+- **Simphony (Focus)**:
+
+  1. [Oracle Simphony Overview](https://www.oracle.com/industries/hospitality/simphony.html) ✍️  
+     Introduzione a Oracle Simphony, un sistema di gestione per il settore hospitality, utile per chi sviluppa software per ristoranti e hotel.
+
+  2. [Oracle Simphony: Developer's Guide](https://docs.oracle.com/cd/E50540_01/PSMSD/hospitality-simphony-developers-guide.html) ✍️  
+     Guida per sviluppatori che desiderano integrarsi con il sistema Oracle Simphony, incluse le API e le best practices.
+
+- **Best Course**:  
+  [PHP for Web Development – LinkedIn Learning](https://www.linkedin.com/learning/php-for-web-development-2) 🎥  
+  Corso completo di PHP per lo sviluppo web, che copre le basi di PHP e come usarlo in applicazioni complesse, incluse interazioni con database. 🌐
+
+---
+
+### _A Pagamento_
+
+- **Libri**:
+
+  - 📘 _Modern PHP: New Features and Good Practices_ – Josh Lockhart  
+    Un libro che esplora le nuove funzionalità di PHP e le migliori pratiche per lo sviluppo moderno.
+
+  - 📕 _PHP & MySQL: Novice to Ninja_ – Tom Butler  
+    Una guida completa per imparare PHP e MySQL, con esempi pratici e progetti concreti.
+
+  - 📙 _Laravel Up & Running_ – Matt Stauffer  
+    Una guida completa per imparare Laravel, uno dei framework PHP più usati per lo sviluppo web, con esempi di codice e progetti reali.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Complete PHP for Beginners – Udemy](https://www.udemy.com/course/php-for-beginners/)**
+     Corso consigliato dalla community che insegna le basi di PHP e come utilizzarlo per creare siti web dinamici. 🌐
+
+  2. **[Oracle Simphony Developer Training – Oracle University](https://education.oracle.com/simphony-developer-training)**
+     Corso specifico per sviluppatori che desiderano imparare a integrare e utilizzare Oracle Simphony. 🌐
+
+  3. **[PHP 7 Fast Track – Pluralsight](https://www.pluralsight.com/courses/php7-fast-track)**
+     Corso su Pluralsight che copre PHP 7, ottimizzando il codice e migliorando la gestione delle performance. 🌐

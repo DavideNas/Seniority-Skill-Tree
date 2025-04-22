@@ -141,9 +141,68 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## ☁️ Risorse & Libri x studiare:
 
-- **YouTube**: [Angular Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=htPYk6QxacQ) ▶️
+### _Gratis_
+
+- **YouTube Videos**:
+
+  1. [AWS Tutorial for Beginners – Simplilearn](https://www.youtube.com/watch?v=HK_q1lH5x5M) ▶️  
+     Una guida introduttiva completa per iniziare con AWS, coprendo i concetti fondamentali e l'utilizzo dei servizi principali.
+
+  2. [Learn AWS with these Free Courses! – Tech With Lucy](https://www.youtube.com/watch?v=PZxAkzpuxT8) ▶️  
+     Panoramica delle migliori risorse gratuite per apprendere AWS, con consigli pratici e suggerimenti utili.
+
+- **YouTube Channels**:
+
+  1. [FreeCodeCamp](https://www.youtube.com/@freecodecamp) 📺  
+     Offre corsi completi e approfonditi su AWS, ideali per principianti e sviluppatori intermedi.
+
+  2. [Simplilearn](https://www.youtube.com/@SimplilearnOfficial) 📺  
+     Canale educativo con numerosi tutorial su AWS e altre tecnologie cloud.
+
+- **Articoli**:
+
+  1. [Top AWS Books recommended by experts – MentorCruise](https://mentorcruise.com/books/aws/) ✍️  
+     Una raccolta dei migliori libri su AWS consigliati da professionisti del settore.
+
+  2. [Top 10 AWS books for Software Developers – Turing](https://www.turing.com/kb/best-aws-books-for-software-developers) ✍️  
+     Elenco dei libri più utili per sviluppatori che desiderano approfondire AWS.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [AWS Documentation](https://docs.aws.amazon.com/) 📘  
+    La documentazione ufficiale di AWS, con guide dettagliate su tutti i servizi offerti.
+
+  - [AWS Training and Certification](https://aws.amazon.com/training/) 📘  
+    Piattaforma ufficiale di formazione AWS, con corsi gratuiti e a pagamento per vari livelli di competenza.
+
+- **Best Course**:  
+  [AWS Cloud Practitioner Essentials – AWS Training](https://www.aws.training/Details/Curriculum?id=20685) 🎥
+  Corso introduttivo gratuito offerto da AWS per comprendere i concetti fondamentali del cloud computing e dei serviz AWS.
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Pro Angular 9"_ di Adam Freeman 📚
-  2. _"Angular Up and Running"_ di Shyam Seshadri 📚
+
+  - 📕 _AWS Certified Solutions Architect Study Guide: Associate SAA-C02 Exam_ – Ben Piper, David Clinton  
+    Guida completa per prepararsi all'esame di certificazione AWS Solutions Architect Associate.
+
+  - 📘 _AWS Certified SysOps Administrator Study Guide: Associate SOA-C02 Exam_ – Stephen Cole, Gareth Digby  
+    Manuale dettagliato per la certificazione AWS SysOps Administrator, con esempi pratici e spiegazioni approfondite.
+
+  - 📙 _Amazon Web Services in Action_ – Andreas Wittig, Michael Wittig  
+    Libro pratico che copre l'utilizzo di AWS con esempi reali e casi d'uso.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Ultimate AWS Certified Solutions Architect Associate SAA-C03 – Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)** 📚  
+     Corso completo e aggiornato per la certificazione SAA-C03, altamente raccomandato su Reddit citeturn0search22.
+
+  2. **[AWS Certified Cloud Practitioner – Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)** 📚  
+     Corso aggiornato per la certificazione Cloud Practitioner, ideale per chi inizia il percorso di certificazione AWS.
+
+  3. **[AWS Certified Developer Associate – Udemy](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)** 📚  
+     Corso focalizzato sulla certificazione Developer Associate, con esercitazioni pratiche e spiegazioni dettagliate.

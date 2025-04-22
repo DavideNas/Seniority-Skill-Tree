@@ -131,9 +131,65 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Java Quarkus Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=nk63b6z-wTk) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Quarkus Framework Full Course – freeCodeCamp](https://www.youtube.com/watch?v=YoLfPbN6gTk) ▶️  
+     Un corso che copre Quarkus e come sviluppare applicazioni ad alte prestazioni con Java, concentrandosi sulla creazione di microservizi.
+
+  2. [Introduction to Quarkus – TechWorld with Nana](https://www.youtube.com/watch?v=r4f1_0KXmyM) ▶️  
+     Un'introduzione a Quarkus, che spiega perché è una scelta eccellente per sviluppare applicazioni Java moderne.
+
+- **YouTube Channels**:
+
+  1. [Quarkus](https://www.youtube.com/c/Quarkusio) 📺  
+     Il canale ufficiale di Quarkus, dove puoi trovare tutorial, demo e altre risorse ufficiali su come utilizzare Quarkus per lo sviluppo di microservizi e applicazioni cloud-native.
+
+  2. [Java Brains](https://www.youtube.com/c/JavaBrains) 📺  
+     Canale che offre tutorial dettagliati su Quarkus, con un focus sulle best practices nello sviluppo di applicazioni microservizi.
+
+- **Articoli**:
+
+  1. [Getting Started with Quarkus](https://quarkus.io/guides/getting-started) ✍️  
+     Una guida ufficiale che ti introduce passo dopo passo nella creazione della tua prima applicazione Quarkus.
+
+  2. [Quarkus: Java Microservices Made Easy](https://dzone.com/articles/quarkus-java-microservices-made-easy) ✍️  
+     Un articolo che esplora come Quarkus semplifica lo sviluppo di microservizi e li rende più veloci ed efficienti rispetto ad altri framework Java.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Quarkus Official Documentation](https://quarkus.io/documentation/) 📘  
+    La documentazione ufficiale di Quarkus, dove troverai tutte le informazioni necessarie per imparare a utilizzare il framework e le sue caratteristiche avanzate.
+
+  - [Quarkus Guides](https://quarkus.io/guides/) 📘  
+    Una raccolta di guide pratiche che ti aiuteranno a imparare Quarkus affrontando diversi scenari e casi d'uso.
+
+- **Best Course**:  
+  [Learn Quarkus - The Modern Java Framework](https://www.udemy.com/course/quarkus-the-modern-java-framework/) 🎥  
+  Un corso completo che ti introduce nel mondo di Quarkus, esplorando i principi fondamentali e le applicazioni reali. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Quarkus for Java Developers"_ di Alex Soto 📚
-  2. _"Quarkus: A Guide to Building Cloud-Native Java Applications"_ di Venkat Subramaniam 📚
+
+  - 📘 _Quarkus: A Practical Guide_ – Venkat Subramaniam  
+    Una guida pratica che esplora come costruire applicazioni moderne e ad alte prestazioni utilizzando Quarkus.
+
+  - 📕 _Kubernetes for Java Developers_ – Arun Gupta  
+    Questo libro esplora Quarkus in combinazione con Kubernetes per costruire soluzioni Java cloud-native scalabili.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Quarkus: A Modern Java Framework – Pluralsight](https://www.pluralsight.com/courses/quarkus-modern-java-framework)**  
+     Questo corso di Pluralsight è altamente raccomandato dalla community, in quanto offre una panoramica completa di Quarkus e delle sue caratteristiche principali. 🌐
+
+  2. **[Mastering Quarkus Framework – Udemy](https://www.udemy.com/course/mastering-quarkus-framework/)**  
+     Un altro corso su Udemy che viene frequentemente menzionato per approfondire le tecniche avanzate di Quarkus, inclusi la gestione di microservizi e l'integrazione con Kubernetes. 🌐
+
+  3. **[Quarkus Microservices – Coursera](https://www.coursera.org/learn/quarkus-microservices)**  
+     Questo corso su Coursera, raccomandato da molti professionisti del settore, ti insegnerà come costruire microservizi scalabili utilizzando Quarkus. 🌐

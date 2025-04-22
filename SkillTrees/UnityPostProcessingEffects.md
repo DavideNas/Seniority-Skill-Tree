@@ -101,9 +101,57 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Using Post-Processing to improve visuals in Unity](https://www.youtube.com/watch?v=_PzYAbPpK8k&ab_channel=GameDevGuide)▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Unity Multiplayer Tutorial (Complete Guide)](https://www.youtube.com/watch?v=5vRUy4e2d6A) ▶️  
+     Guida completa sulla creazione di giochi multiplayer in Unity, coprendo la rete e la sincronizzazione degli oggetti.
+
+  2. [Multiplayer Game Development with Unity and Photon](https://www.youtube.com/watch?v=-hr0j2CTjeM) ▶️  
+     Un tutorial che mostra come utilizzare il servizio Photon per creare giochi multiplayer in Unity.
+
+- **YouTube Channels**:
+
+  1. [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity) 📺  
+     Canale eccellente per tutorial avanzati su Unity, inclusi giochi multiplayer con Photon e Mirror Networking.
+
+  2. [DevSquad](https://www.youtube.com/c/DevSquad) 📺  
+     Canale con tutorial dedicati alla creazione di giochi multiplayer e utilizzo di tecnologie come Photon e Mirror Networking.
+
+- **Articoli**:
+
+  1. [Unity Multiplayer Networking Guide](https://docs.unity.com/560/MultiplayerNetworking/) ✍️  
+     La guida ufficiale di Unity per implementare funzionalità multiplayer nei tuoi giochi, dalla sincronizzazione degli oggetti alla gestione delle connessioni.
+
+  2. [How to Create Multiplayer Games in Unity](https://www.raywenderlich.com/2847-how-to-create-multiplayer-games-in-unity) ✍️  
+     Un tutorial completo su Ray Wenderlich che ti insegna a creare giochi multiplayer con Unity utilizzando diverse soluzioni di rete.
+
+- **Best Course**:  
+  [Unity Multiplayer Game Development – Udemy](https://www.udemy.com/course/unity-multiplayer-game-development/) 🎥  
+  Corso completo su come creare giochi multiplayer con Unity, utilizzando sia Photon che Mirror Networking. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Unity 2021 Shaders and Effects Cookbook"_ di Kenneth Lammers📚
-  2. _"Unity 2023 Visual Effects and Rendering"_ di Jesse Freeman📚
+
+  - 📘 _Multiplayer Game Programming: Architecting Networked Games_ – Josh Glazer  
+    Un libro che esplora come creare giochi multiplayer robusti utilizzando Unity, coprendo teoria e pratiche di rete.
+
+  - 📕 _Unity Networking: Master Multiplayer Game Development with Unity_ – Ashish D. Awasthi  
+    Guida completa sulla creazione di giochi multiplayer, dalle basi alla gestione avanzata della rete in Unity.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Master Multiplayer Game Development with Unity and Photon – Udemy](https://www.udemy.com/course/unity-multiplayer-game-development-with-photon/)**  
+     Un corso altamente consigliato dalla community per imparare a sviluppare giochi multiplayer in Unity con il servizio Photon. 🌐
+
+  2. **[Unity Multiplayer: Make 2D & 3D Games – Coursera](https://www.coursera.org/learn/unity-multiplayer)**  
+     Un corso che ti insegna a sviluppare giochi multiplayer utilizzando Unity, incluse le basi di networking e la creazione di giochi sia 2D che 3D. 🌐
+
+  3. **[Unity Multiplayer and Networking: Advanced Game Development – Udemy](https://www.udemy.com/course/unity-multiplayer-and-networking-advanced-game-development/)**  
+     Corso avanzato su come sviluppare giochi multiplayer con Unity, incluse tecniche avanzate di sincronizzazione e gestione della rete. 🌐

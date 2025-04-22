@@ -146,9 +146,65 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [NestJS Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=wqzZQkZbhpI) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [NestJS Tutorial for Beginners – freeCodeCamp](https://www.youtube.com/watch?v=wMNrSMqDwFQ) ▶️  
+     Una guida completa per principianti su NestJS, che esplora la sua architettura, il pattern MVC e come sviluppare una semplice applicazione.
+
+  2. [NestJS Crash Course – Traversy Media](https://www.youtube.com/watch?v=F_oOtaxb0L8) ▶️  
+     Un corso rapido su NestJS, che copre la configurazione iniziale e la creazione di un'applicazione di esempio.
+
+- **YouTube Channels**:
+
+  1. [NestJS](https://www.youtube.com/c/NestJS) 📺  
+     Il canale ufficiale di NestJS con tutorial, aggiornamenti e best practices direttamente dagli sviluppatori.
+
+  2. [Codevolution](https://www.youtube.com/c/Codevolution) 📺  
+     Canale che offre tutorial su vari framework e tecnologie, con una serie di video dedicati a NestJS.
+
+- **Articoli**:
+
+  1. [NestJS: A Progressive Node.js Framework](https://nestjs.com/) ✍️  
+     La documentazione ufficiale di NestJS che copre tutte le funzionalità e offre guide per l'utilizzo del framework.
+
+  2. [NestJS Guide](https://www.digitalocean.com/community/tutorials) ✍️  
+     Una guida passo-passo su DigitalOcean per iniziare con NestJS, compreso l'ambiente di sviluppo, la creazione di moduli e servizi.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [NestJS Documentation](https://docs.nestjs.com/) 📘  
+    La guida ufficiale per imparare a usare NestJS, con spiegazioni su moduli, controller, provider e gestione dei dati.
+
+  - [NestJS Crash Course](https://nestjs.com/) 📘  
+    La guida di base per creare il tuo primo progetto NestJS e avviare un'applicazione backend scalabile.
+
+- **Best Course**:  
+  [NestJS Zero to Hero – Academind](https://www.youtube.com/watch?v=GHTA143_b-s) 🎥  
+  Un corso dettagliato che guida dall'inizio alla creazione di un'applicazione completa con NestJS, esplorando concetti avanzati come middleware e gestione degli errori. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Mastering NestJS"_ di Kamil Myśliwiec 📚
-  2. _"NestJS - A progressive Node.js framework"_ di Daniele Procida 📚
+
+  - 📘 _NestJS – A Practical Guide_ – Kamil Myśliwiec  
+    Un libro completo che esplora in profondità NestJS, coprendo tutto ciò che un sviluppatore deve sapere per costruire applicazioni scalabili.
+
+  - 📕 _Pro NestJS_ – Kamil Myśliwiec  
+    Una guida avanzata su NestJS che esplora modelli di progettazione, microservizi, GraphQL e altre caratteristiche avanzate.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[NestJS: The Complete Guide – Udemy](https://www.udemy.com/course/nestjs-the-complete-guide/)**
+     Un corso altamente consigliato su Udemy che copre tutti gli aspetti di NestJS, dalla creazione di API RESTful alla gestione di microservizi. 🌐
+
+  2. **[NestJS Fundamentals – Pluralsight](https://www.pluralsight.com/courses/nestjs-fundamentals)**
+     Un corso che esplora le basi di NestJS, partendo dall'installazione fino alla creazione di un'applicazione di esempio con moduli e controller. 🌐
+
+  3. **[Building APIs with NestJS – CodeAcademy](https://www.codecademy.com/learn/learn-nestjs)**
+     Un corso che ti insegna come costruire API performanti e scalabili utilizzando NestJS. 🌐

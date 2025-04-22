@@ -29,8 +29,9 @@
 - [Fiber-GO](SkillTrees/Fiber-GO.md)
 - [Web Protocols](SkillTrees/WebProtocols.md)
 
-#### Architecturals
+#### Architecturals / IT
 
+- [Sistemista IT](SkillTrees/Sistemista-IT.md)
 - [DevOps](SkillTrees/DevOps.md)
 - [Microservices-Developer](SkillTrees/Microservices-Dev.md)
 - [Design Patterns](SkillTrees/DesignPatterns.md)
@@ -66,7 +67,17 @@
   - [Shader Graph](SkillTrees/UnityShaderGraph.md)
   - [Post Processing Effects](SkillTrees/UnityPostProcessingEffects.md)
   - [Unity Multiplayer](SkillTrees/UnityMultiplayer.md)
+  - [Unity DOTS](SkillTrees/Unity-DOTS.md)
+  - [Unity UI Toolkit](SkillTrees/Unity-UI-Toolkit.md)
 
 - [Unreal Engine](SkillTrees/UnrealEngine.md)
 - [Blender3D](SkillTrees/Blender3D.md)
 - [Game Designer](SkillTrees/GameDesigner.md)
+
+#### DataBase
+
+- [DB Admin](SkillTrees/DBAdmin.md)
+- [Oracle DB](<SkillTrees/Oracle DB.md>)
+- [PostgreSQL](SkillTrees/PostgreSQL.md)
+- [NoSQL DB](<SkillTrees/NoSQL DB.md>)
+- [Microsoft SQL Server](<SkillTrees/Microsoft SQL Server.md>)

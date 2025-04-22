@@ -152,9 +152,60 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Rust Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=zF34dRivLOw) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Rust Programming Tutorial – freeCodeCamp](https://www.youtube.com/watch?v=zF34dRivLOw) ▶️  
+     Corso completo che ti guida attraverso i concetti fondamentali di Rust, ideale per chi è nuovo al linguaggio.
+
+  2. [Rust Crash Course 2024 – Traversy Media](https://www.youtube.com/watch?v=ygL_xcavzQ4) ▶️  
+     Introduzione rapida e pratica a Rust con esempi reali per imparare le basi del linguaggio.
+
+- **YouTube Channels**:
+
+  1. [Chris Courses](https://www.youtube.com/c/ChrisCourses) 📺  
+     Canale che offre tutorial su Rust e altre tecnologie moderne, coprendo argomenti di sviluppo software avanzato.
+
+  2. [Let's Get Rusty](https://www.youtube.com/c/LetsGetRusty) 📺  
+     Canale dedicato a Rust, con tutorial e approfondimenti su come utilizzare Rust per sviluppare applicazioni.
+
+- **Articoli**:
+
+  1. [The Rust Programming Language Book](https://doc.rust-lang.org/book/) ✍️  
+     La guida ufficiale di Rust, ideale per principianti e sviluppatori esperti che vogliono imparare Rust in modo completo.
+
+  2. [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/) ✍️  
+     Una serie di esempi che ti guideranno attraverso le caratteristiche di Rust con codice pratico.
+
+- **Best Course**:  
+  [Rust Programming – Udemy](https://www.udemy.com/course/rust-programming-language-tutorial/) 🎥  
+  Un corso che copre tutti gli aspetti del linguaggio Rust, dalle basi fino agli argomenti avanzati. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"The Rust Programming Language"_ di Steve Klabnik 📚
-  2. _"Rust in Action"_ di Tim McNamara 📚
+
+  - 📘 _The Rust Programming Language_ – Steve Klabnik, Carol Nichols  
+    Il libro ufficiale di Rust, una risorsa completa per chi vuole imparare il linguaggio in profondità.
+
+  - 📕 _Rust in Action_ – Tim McNamara  
+    Un libro che esplora Rust dal punto di vista pratico, con esempi concreti e casi d'uso reali.
+
+  - 📙 _Programming Rust_ – Jim Blandy, Jason Orendorff  
+    Una guida approfondita che esplora Rust in dettaglio, ideale per sviluppatori con esperienza di programmazione.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Rust Programming for Beginners – Udemy](https://www.udemy.com/course/rust-programming-for-beginners/)**
+     Corso ideale per i neofiti di Rust, che esplora le basi del linguaggio e le migliori pratiche. 🌐
+
+  2. **[Advanced Rust Programming – Udemy](https://www.udemy.com/course/advanced-rust-programming/)**
+     Corso avanzato che approfondisce gli aspetti più complessi di Rust, tra cui l'uso delle caratteristiche avanzate del linguaggio. 🌐
+
+  3. **[Rust Masterclass – Udemy](https://www.udemy.com/course/rust-masterclass/)**
+     Corso completo che guida attraverso la creazione di applicazioni avanzate in Rust, coprendo tutte le funzionalità principali del linguaggio.

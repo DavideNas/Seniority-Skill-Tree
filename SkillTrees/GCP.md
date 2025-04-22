@@ -144,9 +144,68 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Google Cloud Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=F19p-C4wtW4) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Google Cloud Platform (GCP) Full Course – freeCodeCamp](https://www.youtube.com/watch?v=9bZkp7q19fI) ▶️  
+     Un corso completo su GCP che copre i fondamenti, i servizi principali e l'utilizzo di GCP in vari scenari.
+
+  2. [Google Cloud Platform Tutorial for Beginners – Simplilearn](https://www.youtube.com/watch?v=3bQ_IQjfslw) ▶️  
+     Un'introduzione alle basi di GCP, adatta per chi vuole imparare a gestire l'infrastruttura cloud.
+
+- **YouTube Channels**:
+
+  1. [Google Cloud Platform](https://www.youtube.com/c/GoogleCloudPlatform) 📺  
+     Il canale ufficiale di Google Cloud, con tutorial, casi d'uso e webinar sul cloud computing.
+
+  2. [Cloud Academy](https://www.youtube.com/c/CloudAcademy) 📺  
+     Canale che offre risorse educative su cloud computing, con particolare attenzione su Google Cloud, AWS e Azure.
+
+- **Articoli**:
+
+  1. [Beginner’s Guide to Google Cloud Platform](https://www.educative.io/edpresso/beginners-guide-to-google-cloud-platform) ✍️  
+     Una guida introduttiva che esplora i principali servizi di GCP e come iniziare a utilizzarli.
+
+  2. [Google Cloud Platform: The Ultimate Guide](https://www.cloudsavvyit.com/7646/google-cloud-platform-the-ultimate-guide/) ✍️  
+     Una panoramica completa di GCP, dalle sue caratteristiche ai casi d'uso più comuni.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Google Cloud Documentation](https://cloud.google.com/docs) 📘  
+    La documentazione ufficiale di GCP, che offre risorse dettagliate per ogni servizio e tecnologia Google Cloud.
+
+  - [Google Cloud Platform – Quickstart Guides](https://cloud.google.com/docs/quickstarts) 📘  
+    Una serie di guide rapide che ti aiutano a iniziare rapidamente con GCP, configurando servizi e applicazioni in pochi passaggi.
+
+- **Best Course**:  
+  [Google Cloud Platform Fundamentals – Coursera](https://www.coursera.org/learn/google-cloud-fundamentals) 🎥  
+  Un corso introduttivo che ti aiuta a comprendere i concetti chiave di GCP e come iniziare a usare i servizi di Google Cloud. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Google Cloud Platform for Architects"_ di Vitthal Srinivasan 📚
-  2. _"Learning Google Cloud Platform"_ di Nimit Bhatt 📚
+
+  - 📘 _Google Cloud Platform for Architects_ – Vitthal Srinivasan  
+    Un libro che esplora come progettare soluzioni architetturali su GCP, affrontando scalabilità, sicurezza e best practices.
+
+  - 📙 _Google Cloud Platform in Action_ – JJ Geewax  
+    Una guida pratica che copre i principali servizi di GCP con esempi concreti e casi d'uso.
+
+  - 📕 _Architecting Google Cloud Solutions_ – Victor Dantas  
+    Un libro che si concentra sull'architettura delle soluzioni in Google Cloud, con approfondimenti sulle migliori pratiche e strumenti.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Google Cloud Platform Architecting – Coursera](https://www.coursera.org/professional-certificates/google-cloud-architecting)**  
+     Un corso completo per diventare un architetto su Google Cloud, esplorando la progettazione di soluzioni scalabili e sicure. 🌐
+
+  2. **[Google Cloud Certified Professional Cloud Architect – A Cloud Guru](https://acloudguru.com/course/google-cloud-certified-professional-cloud-architect)**  
+     Corso consigliato per chi vuole ottenere la certificazione di Google Cloud Architect, coprendo i concetti avanzati di GCP. 🌐
+
+  3. **[Master Google Cloud Platform: A Complete Guide – Udemy](https://www.udemy.com/course/master-google-cloud-platform-complete-guide/)**  
+     Un corso che esplora i vari servizi di GCP, da Google Compute Engine a Google Kubernetes Engine, con esercizi pratici. 🌐

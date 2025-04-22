@@ -139,9 +139,82 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [HTTP and REST API Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=7YcW25PHnAA) ▶️
-- **Libri**:
-  1. _"RESTful Web APIs"_ di Leonard Richardson 📚
-  2. _"HTTP: The Definitive Guide"_ di David Gourley 📚
+### 🆓 _Gratuite_
+
+#### 📺 **YouTube Videos & Corsi Gratuiti**
+
+1. **[How the Web Works – Fireship](https://www.youtube.com/watch?v=AVn-Yjr7kDc)**  
+   Spiegazione chiara e visiva su DNS, IP, HTTP, HTTPS e altro. Super consigliato per iniziare.
+
+2. **[HTTP Explained Simply – Web Dev Simplified](https://www.youtube.com/watch?v=iYM2zFP3Zn0)**  
+   Breve e efficace panoramica di HTTP e le sue richieste/risposte.
+
+3. **[HTTP/2 and HTTP/3 Explained – Tech Primers](https://www.youtube.com/watch?v=qDwdMDQ8oX4)**  
+   Approfondimento tecnico su come funzionano HTTP/2 e HTTP/3.
+
+4. **[What is WebSockets – Fireship](https://www.youtube.com/watch?v=Z1RJmh_OqeA)**  
+   Introduzione ai WebSocket e differenze con HTTP.
+
+5. **[CORS in 100 Seconds – Fireship](https://www.youtube.com/watch?v=4KHiSt0oLJ0)**  
+   Spiegazione rapida e semplice di CORS, molto utile per chi sviluppa API.
+
+6. **[HTTP and REST API Full Course – FreeCodeCamp](https://www.youtube.com/watch?v=7YcW25PHnAA)** ▶️  
+   Corso completo e gratuito che spiega HTTP e le REST API da zero, con esempi pratici.
+
+#### 📘 **Articoli & Documentazione**
+
+- 📄 **[MDN – HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)**  
+  Il punto di partenza per tutto su HTTP.
+
+- 📄 **[MDN – HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)**  
+  Dettaglio di tutti i metodi HTTP (GET, POST, PUT, PATCH, DELETE...).
+
+- 📄 **[MDN – HTTPS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview#https)**  
+  Fondamentale per capire cifratura, TLS e sicurezza nel web moderno.
+
+- 📄 **[Google Developers – HTTP/2 Guide](https://developers.google.com/web/fundamentals/performance/http2)**  
+  Ben fatto e pratico, utile per capire vantaggi e implementazione.
+
+- 📄 **[WebSockets Guide – MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)**  
+  Panoramica dettagliata e API reference.
+
+---
+
+### 💸 _A Pagamento_
+
+#### 📚 **Libri**
+
+- 📕 _HTTP: The Definitive Guide_ – David Gourley, Brian Totty  
+  Il classico intramontabile. Copre tutto su HTTP 1.1, proxy, cache, cookies e molto altro.
+
+- 📘 _High Performance Browser Networking_ – Ilya Grigorik (Google)  
+  Gratuito online [qui](https://hpbn.co/) oppure acquistabile come libro. Include DNS, TCP, TLS, HTTP/2, WebSockets, Mobile Networking.
+
+- 📗 _RESTful Web APIs_ – Leonard Richardson, Mike Amundsen  
+  Focus su REST, ma utile per capire le fondamenta di HTTP e l’evoluzione verso GraphQL.
+
+#### 🎓 **Corsi Consigliati**
+
+1. **[Computer Networking – Stanford (Coursera)](https://www.coursera.org/learn/computer-networking)**  
+   Corso universitario che spiega routing, DNS, TCP/IP, HTTP in profondità.
+
+2. **[HTTP, WebSockets, and Networking for Web Developers – Udemy](https://www.udemy.com/course/http-websocket-networking-for-web-developers/)**  
+   Corso orientato agli sviluppatori che vogliono padroneggiare la comunicazione client-server.
+
+3. **[The Complete Guide to HTTP/3 – Pluralsight](https://www.pluralsight.com/courses/http3-understanding)**  
+   Ideale per capire QUIC e i cambiamenti rispetto a HTTP/2.
+
+---
+
+### 🛠️ _Strumenti & Pratica_
+
+- **Postman** – per testare richieste HTTP e API REST/GraphQL.  
+  👉 [https://www.postman.com](https://www.postman.com)
+
+- **Wireshark** – per sniffare il traffico di rete e studiare i pacchetti HTTP, WebSocket e DNS.  
+  👉 [https://www.wireshark.org](https://www.wireshark.org)
+
+- **curl / httpie** – strumenti da terminale per testare endpoint HTTP.  
+  👉 `curl` è preinstallato su molti sistemi, `httpie` è più leggibile (`pip install httpie`)

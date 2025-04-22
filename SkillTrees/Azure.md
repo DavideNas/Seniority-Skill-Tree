@@ -144,9 +144,70 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## ☁️ Risorse & Libri x studiare:
 
-- **YouTube**: [Azure Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=RAXKLqXqqlY) ▶️
+### _Gratis_
+
+- **YouTube Videos**:
+
+  1. [Microsoft Azure Full Course 2025 – Simplilearn](https://www.youtube.com/watch?v=nD9ehXK52GQ) ▶️  
+     Corso completo e aggiornato che copre i concetti fondamentali di Azure.
+
+  2. [AZ-900 Azure Fundamentals Full Course – Edureka](https://www.youtube.com/watch?v=-pX5PjIYTJs) ▶️  
+     Preparazione dettagliata per l'esame AZ-900, ideale per principianti.
+
+- **YouTube Channels**:
+
+  1. [Simplilearn](https://www.youtube.com/@SimplilearnOfficial) 📺  
+     Offre numerosi tutorial e corsi su Azure e altre tecnologie cloud.
+
+  2. [Edureka](https://www.youtube.com/@edurekaIN) 📺  
+     Canale educativo con corsi approfonditi su Azure e sviluppo software.
+
+- **Articoli**:
+
+  1. [Top 9 Microsoft Azure Books You Need to Read in 2023 – Solutions Review](https://solutionsreview.com/cloud-platforms/the-top-microsoft-azure-books/) ✍️  
+     Elenco dei migliori libri su Azure consigliati per diversi livelli di competenza.
+
+  2. [5 Books That Will Make You a Microsoft Azure Master – IBM](https://www.ibm.com/think/insights/azure-books) ✍️  
+     Raccolta di libri essenziali per approfondire le conoscenze su Azure.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Microsoft Learn – Training per Azure](https://learn.microsoft.com/en-us/training/azure/) 📘  
+    Piattaforma ufficiale di formazione con percorsi di apprendimento per vari ruoli e livelli.
+
+  - [Microsoft Azure – Training e Certificazioni](https://azure.microsoft.com/en-us/resources/training-and-certifications) 📘  
+    Risorse per migliorare le competenze cloud e ottenere certificazioni Azure.
+
+- **Best Course**:  
+  [Microsoft Azure Fundamentals – Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/) 🎥
+  Percorso di apprendimento gratuito e ufficiale per acquisire le basi di Azure e prepararsi all'esame A-900.
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Exam Ref AZ-900 Microsoft Azure Fundamentals"_ di Jim Cheshire 📚
-  2. _"Microsoft Azure Architect Design"_ di Greg Leonardo 📚
+
+  - 📕 _Exam Ref AZ-900 Microsoft Azure Fundamentals_ – Jim Cheshire  
+    Guida ufficiale per la preparazione all'esame AZ-900.
+
+  - 📘 _Learning Microsoft Azure: Cloud Computing and Development Fundamentals_ – Jonah Andersson  
+    Introduzione pratica ai concetti e servizi di Azure.
+
+  - 📙 _Microsoft Azure For Dummies_ – Jack A. Hyman  
+    Approccio semplice e accessibile per comprendere Azure.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[AZ-900: Microsoft Azure Fundamentals – Udemy](https://www.udemy.com/course/az-900-azure/)** 📚
+
+     - Corso completo per la certificazione AZ-900, molto apprezzato per la chiarezza e la struttura.
+
+  2. **[Microsoft Azure Certification Training – Coursera](https://www.coursera.org/courses?query=microsoft%20azure)** 📚
+
+     - Offre una varietà di corsi su Azure, inclusi percorsi per certificazioni e specializzazioni.
+
+  3. **[Microsoft Azure Certification Training Courses – Whizlabs](https://www.whizlabs.com/microsoft-azure-certification-training-courses/)** 📚
+     - Piattaforma con corsi e simulazioni d'esame per diverse certificazioni Azure.

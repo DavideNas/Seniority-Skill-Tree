@@ -123,9 +123,65 @@
 
 ---
 
-### 📚 Risorse Consigliate
+## 🎓 Risorse & Libri x studiare:
 
-- 📘 **Nuxt.js Documentation** – ufficiale (sempre aggiornato per Nuxt 3)
-- 📙 **Nuxt 3: The Complete Guide** – corso completo su Vue Mastery
-- 📺 **Academind** / **Vue Mastery** – YouTube per tutorial avanzati
-- 🚀 [Nuxt 3 Docs](https://nuxt.com/docs) – guida completa e case studies
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Nuxt.js Tutorial for Beginners – freeCodeCamp](https://www.youtube.com/watch?v=ltzlhAxJr74) ▶️  
+     Corso completo per principianti su Nuxt.js, che copre la configurazione, il routing e l'implementazione di applicazioni moderne con Vue.js e Nuxt.js.
+
+  2. [Nuxt 3 Crash Course – Traversy Media](https://www.youtube.com/watch?v=ZJv1smfBdFQ) ▶️  
+     Corso rapido che ti guida attraverso le novità di Nuxt 3, come composables, Vue 3, e il nuovo sistema di routing.
+
+- **YouTube Channels**:
+
+  1. [Nuxt.js Official](https://www.youtube.com/c/NuxtJs) 📺  
+     Canale ufficiale di Nuxt.js che offre tutorial, webinar e aggiornamenti sul framework.
+
+  2. [Academind](https://www.youtube.com/c/Academind) 📺  
+     Canale che fornisce tutorial dettagliati su Nuxt.js e altre tecnologie front-end moderne.
+
+- **Articoli**:
+
+  1. [Nuxt.js Documentation – Nuxt.js](https://nuxtjs.org/docs) ✍️  
+     La documentazione ufficiale di Nuxt.js, dove troverai tutte le informazioni necessarie per cominciare e approfondire il framework.
+
+  2. [Getting Started with Nuxt.js](https://vuejs.org/v2/cookbook/starting-nuxt-project.html) ✍️  
+     Un articolo che ti guida nell'iniziare un progetto con Nuxt.js, sfruttando la potenza di Vue.js per applicazioni isomorfiche.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Nuxt.js Documentation](https://nuxtjs.org/docs/) 📘  
+    La guida ufficiale per Nuxt.js, con tutte le risorse e le best practices per costruire applicazioni complete.
+
+  - [Vue.js Documentation](https://vuejs.org/) 📘  
+    La documentazione ufficiale di Vue.js, il framework su cui si basa Nuxt.js.
+
+- **Best Course**:  
+  [Nuxt 3 – The Complete Guide (incl. Vue 3) – Udemy](https://www.udemy.com/course/nuxtjs-the-complete-guide/) 🎥  
+  Un corso completo su Nuxt.js che copre tutto, da come iniziare con Nuxt 3 fino a costruire un'applicazione completa con autenticazione e routing dinamico. 🌐
+
+---
+
+### _A Pagamento_
+
+- **Libri**:
+
+  - 📘 _Fullstack Vue: The Complete Guide to Vue.js_ – Hassan Djirdeh, Nate Murray, Ari Lerner  
+    Un libro che include anche una sezione su Nuxt.js, affrontando Vue.js e come usarlo per costruire applicazioni full-stack.
+
+  - 📕 _Vue.js 2 Design Patterns and Best Practices_ – Paul Halliday  
+    Un libro che esplora vari pattern di progettazione per Vue.js e include Nuxt.js per ottimizzare le applicazioni.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Vue Mastery – Nuxt.js Course](https://www.vuemastery.com/courses/nuxtjs/)**  
+     Un corso completo su Nuxt.js, creato da Vue Mastery, che offre una guida approfondita su come utilizzare Nuxt per costruire applicazioni full-stack. 🌐
+
+  2. **[Nuxt.js for Vue.js Developers – Vue School](https://vueschool.io/courses/nuxtjs-for-vuejs-developers/)**  
+     Un corso che si concentra su come i sviluppatori Vue.js possano facilmente iniziare a usare Nuxt.js e sfruttare le sue funzionalità avanzate. 🌐
+
+  3. **[Nuxt.js: Building Applications with Vue.js – Pluralsight](https://www.pluralsight.com/courses/nuxtjs-building-applications-vuejs)**  
+     Corso su Pluralsight che ti insegna a costruire applicazioni moderne utilizzando Nuxt.js. 🌐

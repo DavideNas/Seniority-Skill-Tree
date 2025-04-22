@@ -127,9 +127,68 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Design Patterns Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=4oCm0Xk3WHA) ▶️
+### _Gratis_
+
+- **YouTube Videos**:
+
+  1. [Design Patterns in Java Full Course – freeCodeCamp](https://www.youtube.com/watch?v=pjDi4LVI8J4) ▶️  
+     Corso completo che copre i principali design pattern in Java, ideale per principianti.
+
+  2. [Master Design Patterns & SOLID Principles in C# – Alpha Brains](https://www.youtube.com/watch?v=rylaiB2uH2A) ▶️  
+     Corso approfondito su design pattern e principi SOLID in C#.
+
+- **YouTube Channels**:
+
+  1. [Fireship](https://www.youtube.com/@Fireship) 📺  
+     Canale noto per tutorial rapidi e informativi su tecnologie moderne, inclusi video sui design pattern.
+
+  2. [The Net Ninja](https://www.youtube.com/@NetNinja) 📺  
+     Offre una varietà di corsi su sviluppo web, con contenuti anche sui design pattern.
+
+- **Articoli**:
+
+  1. [The 3 Types of Design Patterns All Developers Should Know – freeCodeCamp](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/) ✍️  
+     Introduzione ai tre principali tipi di design pattern: creazionali, strutturali e comportamentali.
+
+  2. [JavaScript Design Patterns – Explained with Examples – freeCodeCamp](https://www.freecodecamp.org/news/javascript-design-patterns-explained/) ✍️  
+     Esempi pratici di design pattern implementati in JavaScript.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Refactoring.Guru – Design Patterns](https://refactoring.guru/design-patterns) 📘  
+    Guida interattiva con spiegazioni dettagliate e diagrammi per ogni pattern.
+
+  - [freeCodeCamp – Tag: Design Patterns](https://www.freecodecamp.org/news/tag/design-patterns/) 📘  
+    Raccolta di articoli e tutorial sui design pattern.
+
+- **Best Course**:  
+  [Design Patterns in Java Full Course – freeCodeCamp](https://www.youtube.com/watch?v=pjDi4LVI8J4) �  
+  Corso completo e gratuito che copre i principali design pattern in Java, consigliato per chi nizia.
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Design Patterns: Elements of Reusable Object-Oriented Software"_ di Erich Gamma 📚
-  2. _"Head First Design Patterns"_ di Eric Freeman 📚
+
+  - 📕 _Design Patterns: Elements of Reusable Object-Oriented Software_ – Erich Gamma et al.  
+    Conosciuto come il "GoF book", è il testo di riferimento sui design pattern.
+
+  - 📘 _Head First Design Patterns_ – Eric Freeman  
+    Approccio visivo e pratico per comprendere i design pattern, ideale per principianti.
+
+  - 📙 _Dive Into Design Patterns_ – Refactoring.Guru  
+    Guida moderna con esempi dettagliati e diagrammi per ogni pattern.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Design Patterns in Java – Udemy](https://www.udemy.com/course/design-patterns-java/)**  
+     Corso pratico che copre i principali design pattern in Java con esempi reali. 🌐
+
+  2. **[Design Patterns in C# and .NET – Udemy](https://www.udemy.com/course/design-patterns-csharp-dotnet/)**  
+     Corso completo sui design pattern applicati in C# e .NET. 🌐
+
+  3. **[Understanding the concepts of Software Design Patterns – Udemy](https://www.udemy.com/course/software-design-patterns/)**  
+     Corso che fornisce una comprensione approfondita dei design pattern con esempi pratici. 🌐

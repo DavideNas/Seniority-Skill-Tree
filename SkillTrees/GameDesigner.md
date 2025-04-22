@@ -121,9 +121,68 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Game Design Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=lkYXHTh_58Q) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Game Design for Beginners – freeCodeCamp](https://www.youtube.com/watch?v=R6rOHiT0K8A) ▶️  
+     Un'introduzione completa al game design, che copre tutti gli aspetti fondamentali della creazione di giochi, dalla progettazione alla programmazione.
+
+  2. [Game Design – The Basics – Game Maker’s Toolkit](https://www.youtube.com/watch?v=ngq5x5Rf0b0) ▶️  
+     Un'analisi approfondita dei concetti di base nel game design, come le meccaniche, la narrazione e l’interazione.
+
+- **YouTube Channels**:
+
+  1. [Game Maker’s Toolkit](https://www.youtube.com/c/MarkBrownGMT) 📺  
+     Canale che esplora il design dei giochi, analizzando giochi famosi e studiando come funzionano.
+
+  2. [Extra Credits](https://www.youtube.com/c/ExtraCredits) 📺  
+     Canale educativo che esplora vari aspetti del game design, dalla narrativa alla psicologia dei giocatori.
+
+- **Articoli**:
+
+  1. [The Art of Game Design – Medium](https://medium.com/@4okonn/the-art-of-game-design-68a4a4de4a98) ✍️  
+     Un articolo che esplora le sfide e le considerazioni che un game designer deve affrontare nella creazione di un gioco coinvolgente.
+
+  2. [Game Design Theory – Gamasutra](https://www.gamasutra.com/blogs/DavidSchreiner/20170426/296720/Game_Design_Theory_A_Brief_Introduction.php) ✍️  
+     Una guida che analizza i concetti teorici alla base del game design.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Game Design Fundamentals – GameDev.net](https://www.gamedev.net/essays/game-design/) 📘  
+    Una serie di articoli che esplorano i fondamenti del game design, dalle meccaniche di gioco alla progettazione di livelli.
+
+  - [Introduction to Game Design – Unity Learn](https://learn.unity.com/course/introduction-to-game-design) 📘  
+    Corso gratuito che esplora i principi fondamentali del game design, fornendo anche tutorial pratici su come creare giochi.
+
+- **Best Course**:  
+  [Game Design – University of Michigan (Coursera)](https://www.coursera.org/learn/game-design) 🎥  
+  Un corso accademico che ti insegnerà le tecniche e le teorie del game design, con esempi concreti e un progetto finale. 🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"The Art of Game Design"_ di Jesse Schell 📚
-  2. _"Rules of Play: Game Design Fundamentals"_ di Katie Salen and Eric Zimmerman 📚
+
+  - 📘 _The Art of Game Design: A Book of Lenses_ – Jesse Schell  
+    Un libro fondamentale che esplora i concetti fondamentali e avanzati del game design, utilizzando diversi "lenti" per analizzare ogni aspetto del gioco.
+
+  - 📙 _Rules of Play: Game Design Fundamentals_ – Katie Salen, Eric Zimmerman  
+    Un libro completo che esplora la teoria del game design e le pratiche per progettare esperienze di gioco significative.
+
+  - 📕 _Level Up! The Guide to Great Video Game Design_ – Scott Rogers  
+    Un altro libro molto apprezzato che ti guida attraverso il processo di progettazione del gioco, dalle basi fino alle tecniche avanzate.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Game Design: Art and Concepts – Udemy](https://www.udemy.com/course/game-design-art-and-concepts/)**  
+     Corso che esplora l'arte e i concetti alla base della progettazione di giochi, consigliato per i principianti che vogliono imparare gli aspetti visivi e narrativi del game design. 🌐
+
+  2. **[Game Design and Development with Unity – Coursera](https://www.coursera.org/specializations/game-design)**  
+     Un corso completo che combina game design con Unity, uno degli strumenti più utilizzati per lo sviluppo di giochi. 🌐
+
+  3. **[Complete Game Design Course – Skillshare](https://www.skillshare.com/classes/Complete-Game-Design-Course-Learn-to-Design-Better-Games/1346330542)**  
+     Un corso che esplora tutte le fasi del game design, dall'idea iniziale al prototipo finale. 🌐

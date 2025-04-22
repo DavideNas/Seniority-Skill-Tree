@@ -148,9 +148,68 @@
 
 ---
 
-## 📘 Risorse & Libri x studiare:
+## 🎓 Risorse & Libri x studiare:
 
-- **YouTube**: [Express.js Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=gnsGJ4tX3Z8) ▶️
+### _Gratuite_
+
+- **YouTube Videos**:
+
+  1. [Express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) ▶️  
+     Un crash course che esplora le basi di Express.js, utile per i principianti.
+
+  2. [Build RESTful APIs with Express.js (freeCodeCamp)](https://www.youtube.com/watch?v=pKd0Rpw7O48) ▶️  
+     Guida passo passo per costruire API RESTful usando Express.js.
+
+- **YouTube Channels**:
+
+  1. [Traversy Media](https://www.youtube.com/user/TechGuyWeb) 📺  
+     Canale con vari tutorial su Express.js e sviluppo web.
+
+  2. [Academind](https://www.youtube.com/c/Academind) 📺  
+     Canale che offre corsi su Express.js e su altri strumenti di backend.
+
+- **Articoli**:
+
+  1. [Express.js Official Documentation](https://expressjs.com/en/starter/installing.html) ✍️  
+     La documentazione ufficiale di Express.js, fondamentale per ogni sviluppatore.
+
+  2. [Getting Started with Express.js](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) ✍️  
+     Guida per principianti che introduce Express.js, il server e le rotte.
+
+- **Documentazione ufficiale / Guide utili**:
+
+  - [Official Express.js Docs](https://expressjs.com/) 📘  
+    La risorsa ufficiale per imparare tutto su Express.js.
+
+  - [Node.js & Express.js Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) 📘  
+    Una guida completa di MDN su Node.js e Express.
+
+- **Best Course**:  
+  [Node.js and Express.js – Udemy](https://www.udemy.com/course/nodejs-express-mongodb/) 🎥  
+  Corso che copre la creazione di API con Node.js ed Express.js, includendo l'uso di MongoDB.🌐
+
+---
+
+### _A Pagamento_
+
 - **Libri**:
-  1. _"Express in Action"_ di Evan Hahn 📚
-  2. _"Pro Express.js"_ di Azat Mardan 📚
+
+  - 📕 _Pro Express.js_ – Azat Mardan  
+    Una guida approfondita su Express.js, per sviluppatori che desiderano esplorare la creazione di API complesse.
+
+  - 📘 _Express in Action_ – Evan Hahn  
+    Un libro che esplora i concetti avanzati di Express.js e la creazione di applicazioni web.
+
+  - 📙 _Node.js Design Patterns_ – Mario Casciaro  
+    Un libro che esplora come usare Node.js ed Express.js con pattern di progettazione per applicazioni scalabili.
+
+- **Corsi Consigliati dalla Community**:
+
+  1. **[Build RESTful APIs with Node & Express – Udemy](https://www.udemy.com/course/build-restful-apis-with-node-and-express/)**  
+     Corso altamente consigliato per imparare a costruire API RESTful robuste. 🌐
+
+  2. **[Learn Express.js & MongoDB](https://www.codecademy.com/learn/learn-express)**  
+     Un corso su Codecademy che ti guida nella creazione di API RESTful con Express.js e MongoDB. 🌐
+
+  3. **[The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)**  
+     Un corso completo che copre Node.js ed Express.js, progettato per sviluppatori di tutti i livelli. 🌐
