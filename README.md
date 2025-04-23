@@ -1,8 +1,10 @@
-## Skill Tree to become a Senior Developer
+# Skill Tree to become a Senior Developer
 
-### Skill list to master seniority in
+## Skill List to Master Seniority In
 
-#### Classic Languages Programming
+### 🔧 **Classic Languages Programming**
+
+#### _Competenze fondamentali per lavorare con linguaggi di programmazione tradizionali._
 
 - [C++](SkillTrees/CPP.md)
 - [C#](SkillTrees/CSharp.md)
@@ -10,7 +12,11 @@
 - [PHP](SkillTrees/PHP.md)
 - [JavaScript](SkillTrees/Javascript.md)
 
-#### Front End Languages
+---
+
+### 🌐 **Front End Languages**
+
+#### _Competenze per lo sviluppo di interfacce utente moderne e dinamiche._
 
 - [Angular](SkillTrees/Angular.md)
 - [React](SkillTrees/React.md)
@@ -18,7 +24,11 @@
 - [Vue](SkillTrees/VueJS.md)
 - [Nuxt](SkillTrees/NuxtJS.md)
 
-#### Back End Languages
+---
+
+### 🖥️ **Back End Languages**
+
+#### _Competenze per la programmazione lato server, gestione API e database._
 
 - [NodeJS](SkillTrees/NodeJS.md)
 - [Node Express](SkillTrees/Express-NodeJS.md)
@@ -28,8 +38,14 @@
 - [Java Spring](SkillTrees/JavaSpring.md)
 - [Fiber-GO](SkillTrees/Fiber-GO.md)
 - [Web Protocols](SkillTrees/WebProtocols.md)
+- [ASP.Net](SkillTrees/ASP-Net.md)
+- [VB.Net](SkillTrees/VB-Net.md)
 
-#### Architecturals / IT
+---
+
+### 🛠️ **Architecturals / IT**
+
+#### _Competenze necessarie per progettare, sviluppare e gestire sistemi software complessi._
 
 - [Sistemista IT](SkillTrees/Sistemista-IT.md)
 - [DevOps](SkillTrees/DevOps.md)
@@ -37,14 +53,22 @@
 - [Design Patterns](SkillTrees/DesignPatterns.md)
 - [Architectural Patterns](SkillTrees/ArchitecturalPatterns.md)
 
-#### Clouds
+---
 
-- [Cloud Engineer](<SkillTrees/Cloud Engineer.md>)
+### ☁️ **Ingegneria Cloud e Piattaforme**
+
+#### _Competenze per lavorare con infrastrutture cloud e servizi distribuiti._
+
+- [Cloud Engineer](SkillTrees/Cloud%20Engineer.md)
 - [AWS](SkillTrees/AWS.md)
 - [GCP](SkillTrees/GCP.md)
 - [Azure](SkillTrees/Azure.md)
 
-#### Lambda Oriented Languages
+---
+
+### 🖥️ **Serverless Programming Languages**
+
+#### _Competenze per lo sviluppo in linguaggi orientati alla programmazione serverless._
 
 - [Java Quarkus](SkillTrees/JavaQuarkus.md)
 - [GO](SkillTrees/GoLang.md)
@@ -53,31 +77,54 @@
 - [Deno](SkillTrees/Deno.md)
 - [Elixir / Phoenix FW](SkillTrees/Elixir.md)
 
-#### Mobile Oriented
+---
+
+### 📱 **Mobile Oriented**
+
+#### _Competenze per lo sviluppo di applicazioni mobili multipiattaforma._
 
 - [Flutter](SkillTrees/Flutter.md)
 - [React Native](SkillTrees/ReactNative.md)
 - [Kotlin Android](SkillTrees/KotlinAndroid.md)
+- [Swift](SkillTrees/Swift.md)
+- [Xamarin](SkillTrees/Xamarin.md)
 
-#### Gaming
+---
+
+### 🎮 **Tecnologie e metodi per lo Sviluppo di VideoGiochi**
+
+#### _Competenze per lo sviluppo di giochi, design e gestione di esperienze interattive._
 
 - [Unity 3D](SkillTrees/Unity3D.md)
-
   - [HLSL (Shader Developer)](SkillTrees/ShaderHLSL.md)
   - [Shader Graph](SkillTrees/UnityShaderGraph.md)
   - [Post Processing Effects](SkillTrees/UnityPostProcessingEffects.md)
   - [Unity Multiplayer](SkillTrees/UnityMultiplayer.md)
   - [Unity DOTS](SkillTrees/Unity-DOTS.md)
   - [Unity UI Toolkit](SkillTrees/Unity-UI-Toolkit.md)
-
 - [Unreal Engine](SkillTrees/UnrealEngine.md)
 - [Blender3D](SkillTrees/Blender3D.md)
 - [Game Designer](SkillTrees/GameDesigner.md)
 
-#### DataBase
+---
+
+### 🗄️ **DataBase**
+
+#### _Competenze per progettare e amministrare database, sia relazionali che NoSQL._
 
 - [DB Admin](SkillTrees/DBAdmin.md)
-- [Oracle DB](<SkillTrees/Oracle DB.md>)
+- [Oracle DB](SkillTrees/Oracle%20DB.md)
 - [PostgreSQL](SkillTrees/PostgreSQL.md)
-- [NoSQL DB](<SkillTrees/NoSQL DB.md>)
-- [Microsoft SQL Server](<SkillTrees/Microsoft SQL Server.md>)
+- [NoSQL DB](SkillTrees/NoSQL%20DB.md)
+- [Microsoft SQL Server](SkillTrees/Microsoft%20SQL%20Server.md)
+
+---
+
+### 🎯 **Management & Coaching**
+
+#### _Percorsi consigliati per i ruoli di gestione, facilitazione e coaching in ambienti Agile._
+
+- [Agile Coaching](SkillTrees/AgileCoaching.md)
+- [Product Owner](SkillTrees/ProductOwner.md)
+- [Scrum Master](SkillTrees/ScrumMaster.md)
+- [Gamification in Agile](SkillTrees/Gamification.md)
