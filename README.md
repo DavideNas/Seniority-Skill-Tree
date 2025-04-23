@@ -18,6 +18,7 @@
 
 #### _Competenze per lo sviluppo di interfacce utente moderne e dinamiche._
 
+- [HTML5 & CSS3](SkillTrees/HTML5-CSS3.md)
 - [Angular](SkillTrees/Angular.md)
 - [React](SkillTrees/React.md)
 - [Next](SkillTrees/NextJS.md)
