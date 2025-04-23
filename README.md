@@ -1,6 +1,4 @@
-# Skill Tree to become a Senior Developer
-
-## Skill List to Master Seniority In
+# Developer
 
 ### 🔧 **Classic Languages Programming**
 
@@ -92,7 +90,7 @@
 
 ---
 
-### 🎮 **Tecnologie e metodi per lo Sviluppo di VideoGiochi**
+### 🎮 **VideoGiochi**
 
 #### _Competenze per lo sviluppo di giochi, design e gestione di esperienze interattive._
 
@@ -121,6 +119,8 @@
 
 ---
 
+# Project Management
+
 ### 🎯 **Management & Coaching**
 
 #### _Percorsi consigliati per i ruoli di gestione, facilitazione e coaching in ambienti Agile._
@@ -129,3 +129,39 @@
 - [Product Owner](SkillTrees/ProductOwner.md)
 - [Scrum Master](SkillTrees/ScrumMaster.md)
 - [Gamification in Agile](SkillTrees/Gamification.md)
+
+---
+
+# Sicurezza informatica
+
+### 🛡️ Defensive Security (Blue Team)
+
+- [SOC Analyst](SkillTrees/SOCAnalyst.md) - Cybersecurity
+- [Security Analyst](SkillTrees/SecurityAnalyst.md) - Cybersecurity
+- [Incident Response Specialist](SkillTrees/IncidentResponseSpecialist.md) - Cybersecurity
+- [Forensic Analyst](SkillTrees/ForensicAnalyst.md) - Cybersecurity
+- [Blue Hat Hacker](SkillTrees/BlueHatHacker.md) - Hacker
+- [Purple Hat Hacker (Ibridazione Red & Blue)](SkillTrees/PurpleHatHacker.md) - Hacker
+
+### 🔓 Offensive Security (Red Team)
+
+- [Penetration Tester](SkillTrees/PenetrationTesterPentester.md) - Hacker
+- [Red Teamer](SkillTrees/RedTeamer.md) - Hacker
+- [Bug Bounty Hunter](SkillTrees/BugBountyHunter.md) - Hacker
+- [White Hat Hacker](SkillTrees/WhiteHatHacker.md) - Hacker
+
+### 🕶️ Rogue & Underground Hackers
+
+- [Black Hat Hacker](SkillTrees/BlackHatHacker.md) - Hacker
+- [Gray Hat Hacker](SkillTrees/GrayHatHacker.md) - Hacker
+- [Red Hat Hacker](SkillTrees/RedHatHacker.md) - Hacker
+
+### 📚 Learning & Mentorship
+
+- [Green Hat Hacker (Novizi)](SkillTrees/GreenHatHacker.md) - Hacker
+- [Cyber Security Trainer](SkillTrees/CyberSecurityTrainer.md) - Cybersecurity
+
+### 🔬 Specialized Security Domains
+
+- [Cryptography Expert](SkillTrees/CryptographyExpert.md) - Cybersecurity
+- [Ransomware Expert](SkillTrees/RansomwareExpert.md) - Cybersecurity
