@@ -136,6 +136,8 @@
 
 ### 🛡️ Defensive Security (Blue Team)
 
+#### Ruoli e competenze per difendere i sistemi informatici dalle minacce esterne.
+
 - [SOC Analyst](SkillTrees/SOCAnalyst.md) - Cybersecurity
 - [Security Analyst](SkillTrees/SecurityAnalyst.md) - Cybersecurity
 - [Incident Response Specialist](SkillTrees/IncidentResponseSpecialist.md) - Cybersecurity
@@ -145,6 +147,8 @@
 
 ### 🔓 Offensive Security (Red Team)
 
+#### Ruoli e competenze per testare la sicurezza attraverso attacchi simulati.
+
 - [Penetration Tester](SkillTrees/PenetrationTesterPentester.md) - Hacker
 - [Red Teamer](SkillTrees/RedTeamer.md) - Hacker
 - [Bug Bounty Hunter](SkillTrees/BugBountyHunter.md) - Hacker
@@ -152,16 +156,22 @@
 
 ### 🕶️ Rogue & Underground Hackers
 
+#### Competenze in hacking, anche in contesti non convenzionali o eticamente ambigui.
+
 - [Black Hat Hacker](SkillTrees/BlackHatHacker.md) - Hacker
 - [Gray Hat Hacker](SkillTrees/GrayHatHacker.md) - Hacker
 - [Red Hat Hacker](SkillTrees/RedHatHacker.md) - Hacker
 
 ### 📚 Learning & Mentorship
 
+#### Percorsi di formazione e sviluppo per aspiranti esperti di sicurezza informatica.
+
 - [Green Hat Hacker (Novizi)](SkillTrees/GreenHatHacker.md) - Hacker
 - [Cyber Security Trainer](SkillTrees/CyberSecurityTrainer.md) - Cybersecurity
 
 ### 🔬 Specialized Security Domains
+
+#### Competenze avanzate in aree specializzate della sicurezza informatica.
 
 - [Cryptography Expert](SkillTrees/CryptographyExpert.md) - Cybersecurity
 - [Ransomware Expert](SkillTrees/RansomwareExpert.md) - Cybersecurity
