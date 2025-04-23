@@ -145,6 +145,8 @@
 - [Blue Hat Hacker](SkillTrees/BlueHatHacker.md) - Hacker
 - [Purple Hat Hacker (Ibridazione Red & Blue)](SkillTrees/PurpleHatHacker.md) - Hacker
 
+---
+
 ### 🔓 Offensive Security (Red Team)
 
 #### Ruoli e competenze per testare la sicurezza attraverso attacchi simulati.
@@ -154,6 +156,8 @@
 - [Bug Bounty Hunter](SkillTrees/BugBountyHunter.md) - Hacker
 - [White Hat Hacker](SkillTrees/WhiteHatHacker.md) - Hacker
 
+---
+
 ### 🕶️ Rogue & Underground Hackers
 
 #### Competenze in hacking, anche in contesti non convenzionali o eticamente ambigui.
@@ -162,12 +166,16 @@
 - [Gray Hat Hacker](SkillTrees/GrayHatHacker.md) - Hacker
 - [Red Hat Hacker](SkillTrees/RedHatHacker.md) - Hacker
 
+---
+
 ### 📚 Learning & Mentorship
 
 #### Percorsi di formazione e sviluppo per aspiranti esperti di sicurezza informatica.
 
 - [Green Hat Hacker (Novizi)](SkillTrees/GreenHatHacker.md) - Hacker
 - [Cyber Security Trainer](SkillTrees/CyberSecurityTrainer.md) - Cybersecurity
+
+---
 
 ### 🔬 Specialized Security Domains
 
